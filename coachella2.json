@@ -1,0 +1,4028 @@
+{
+	"name":"Coachella",
+	"img":"//assets.crowdsurge.com/demos/yi/coachella/img/main.jpg",
+	"show":"yes",
+	"click": "hide",
+	"children":[
+	{
+		"name":"1999",
+		"size":1,
+		"click": "hide",
+		"show":"yes",
+		"children":[
+		{
+			"name":"86 Acts",
+			"size":86,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 40,
+					"children":[
+						{
+							"name": "Main Stage",
+							"size": 7,
+							"children": [
+								{"name": "Beck", "size" : 1, "artistid": 1},
+								{"name": "The Chemical Brothers", "size" : 1, "artistid": 1},
+								{"name": "Morrissey", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "Medeski Martin & Wood", "size" : 1, "artistid": 1},
+								{"name": "Bis", "size" : 1, "artistid": 1},
+								{"name": "A Perfect Circle", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "Underworld", "size" : 1, "artistid": 1},
+								{"name": "Spiritualized", "size" : 1, "artistid": 1},
+								{"name": "Art of Noise", "size" : 1, "artistid": 1},
+								{"name": "Modest Mouse", "size" : 1, "artistid": 1},
+								{"name": "Super Furry Animals", "size" : 1, "artistid": 1},
+								{"name": "IQU", "size" : 1, "artistid": 1},
+								{"name": "The Bicycle Thief", "size" : 1, "artistid": 1},
+								{"name": "At the Drive In", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "DJ Rap", "size" : 1, "artistid": 1},
+								{"name": "Jurassic 5", "size" : 1, "artistid": 1},
+								{"name": "Breakbeat Era with Roni Size", "size" : 1, "artistid": 1},
+								{"name": "DJ Die", "size" : 1, "artistid": 1},
+								{"name": "MC Dynamite", "size" : 1, "artistid": 1},
+								{"name": "Cornelius", "size" : 1, "artistid": 1},
+								{"name": "Simply Jeff", "size" : 1, "artistid": 1},
+								{"name": "The Wiseguys", "size" : 1, "artistid": 1},
+								{"name": "Christopher Lawrence", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 6,
+							"children": [
+								{"name": "Bassbin Twins", "size" : 1, "artistid": 1},
+								{"name": "Richie Hawtin", "size" : 1, "artistid": 1},
+								{"name": "Juan Atkins", "size" : 1, "artistid": 1},
+								{"name": "Derrick May", "size" : 1, "artistid": 1},
+								{"name": "Kevin Saunderson", "size" : 1, "artistid": 1},
+								{"name": "Lunatic Calm", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "DJ Food", "size" : 1, "artistid": 1},
+								{"name": "Kid Koala", "size" : 1, "artistid": 1},
+								{"name": "Amon Tobin", "size" : 1, "artistid": 1},
+								{"name": "Mr. Scruff", "size" : 1, "artistid": 1},
+								{"name": "µ-Ziq", "size" : 1, "artistid": 1},
+								{"name": "Nightmares on Wax", "size" : 1, "artistid": 1},
+								{"name": "Ming", "size" : 1, "artistid": 1},
+								{"name": "FS", "size" : 1, "artistid": 1},
+								{"name": "Tomas", "size" : 1, "artistid": 1},
+								{"name": "Mike Fix", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},
+				{
+					"name":"Sunday",
+					"size":45,
+					"children":[
+						{
+							"name": "Main Stage",
+							"size": 6,
+							"children": [
+								{"name": "Tool", "size" : 1, "artistid": 1},
+								{"name": "Rage Against the Machine", "size" : 1, "artistid": 1},
+								{"name": "Ben Harper", "size" : 1, "artistid": 1},
+								{"name": "Pavement", "size" : 1, "artistid": 1},
+								{"name": "Cibo Matto", "size" : 1, "artistid": 1},
+								{"name": "Money Mark", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "Moby", "size" : 1, "artistid": 1},
+								{"name": "Esthero", "size" : 1, "artistid": 1},
+								{"name": "Innerzone Orchestra", "size" : 1, "artistid": 1},
+								{"name": "DJ Shadow", "size" : 1, "artistid": 1},
+								{"name": "Spearhead", "size" : 1, "artistid": 1},
+								{"name": "Rahzel", "size" : 1, "artistid": 1},
+								{"name": "Gil Scott-Heron", "size" : 1, "artistid": 1},
+								{"name": "Ugly Duckling", "size" : 1, "artistid": 1}	
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 7,
+							"children": [
+								{"name": "GusGus", "size" : 1, "artistid": 1},
+								{"name": "Thievery Corporation", "size" : 1, "artistid": 1},
+								{"name": "Lamb", "size" : 1, "artistid": 1},
+								{"name": "Fantastic Plastic Machine", "size" : 1, "artistid": 1},
+								{"name": "Banco de Gaia", "size" : 1, "artistid": 1},
+								{"name": "BT", "size" : 1, "artistid": 1},
+								{"name": "The Angel", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 12,
+							"children": [
+								{"name": "Progression Sessions", "size" : 1, "artistid": 1},
+								{"name": "Raymond Roker", "size" : 1, "artistid": 1},
+								{"name": "Blame", "size" : 1, "artistid": 1},
+								{"name": "MC Question Mark", "size" : 1, "artistid": 1},
+								{"name": "Scratch Perverts", "size" : 1, "artistid": 1},
+								{"name": "Mix Master Mike", "size" : 1, "artistid": 1},
+								{"name": "Qbert", "size" : 1, "artistid": 1},
+								{"name": "A-Trak", "size" : 1, "artistid": 1},
+								{"name": "4hero", "size" : 1, "artistid": 1},
+								{"name": "DJ Cam", "size" : 1, "artistid": 1},
+								{"name": "A-Trak", "size" : 1, "artistid": 1},
+								{"name": "Science Sessions", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "LTJ Bukem", "size" : 1, "artistid": 1},
+								{"name": "Jun", "size" : 1, "artistid": 1},
+								{"name": "MC Conrad", "size" : 1, "artistid": 1},
+								{"name": "Luke Vibert", "size" : 1, "artistid": 1},
+								{"name": "Autechre", "size" : 1, "artistid": 1},
+								{"name": "Bola", "size" : 1, "artistid": 1},
+								{"name": "Rob Hall", "size" : 1, "artistid": 1},
+								{"name": "Jega", "size" : 1, "artistid": 1},
+								{"name": "Neotropic", "size" : 1, "artistid": 1},
+								{"name": "Push Button Objects", "size" : 1, "artistid": 1},
+								{"name": "Mira Calix", "size" : 1, "artistid": 1},
+								{"name": "Andy Maddocks", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2001",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"52 Acts",
+			"size":52,
+			"show":"yes",
+			"click": "show",
+			"children": [
+			{
+				"name": "Coachella Stage",
+				"size": 10,
+				"children": [
+					{"name": "Jane's Addiction", "size" : 1, "artistid": 1},
+					{"name": "Paul Oakenfold", "size" : 1, "artistid": 1},
+					{"name": "Weezer", "size" : 1, "artistid": 1},
+					{"name": "The Roots", "size" : 1, "artistid": 1},
+					{"name": "MC Supernatural", "size" : 1, "artistid": 1},
+					{"name": "Iggy Pop", "size" : 1, "artistid": 1},
+					{"name": "The Dandy", "size" : 1, "artistid": 1},
+					{"name": "Warhols", "size" : 1, "artistid": 1},
+					{"name": "Souls of Mischief", "size" : 1, "artistid": 1},
+					{"name": "Medusa", "size" : 1, "artistid": 1}
+				]
+			},{
+				"name": "Outdoor Theater",
+				"size": 10,
+				"children": [
+					{"name": "Gang Starr", "size" : 1, "artistid": 1},
+					{"name": "MC Supernatural", "size" : 1, "artistid": 1},
+					{"name": "Roni Size Reprazent", "size" : 1, "artistid": 1},
+					{"name": "Mos Def", "size" : 1, "artistid": 1},
+					{"name": "St. Germain", "size" : 1, "artistid": 1},
+					{"name": "Blonde Redhead", "size" : 1, "artistid": 1},
+					{"name": "Ozomatli", "size" : 1, "artistid": 1},
+					{"name": "Nikka Costa", "size" : 1, "artistid": 1},
+					{"name": "The New Deal", "size" : 1, "artistid": 1},
+					{"name": "Pedro the Lion", "size" : 1, "artistid": 1}
+				]
+			},{
+				"name": "Mojave Tent",
+				"size": 11,
+				"children": [
+					{"name": "The Orb", "size" : 1, "artistid": 1},
+					{"name": "Tricky", "size" : 1, "artistid": 1},
+					{"name": "Sigur Rós", "size" : 1, "artistid": 1},
+					{"name": "Bad Company UK", "size" : 1, "artistid": 1},
+					{"name": "Raymond Roker", "size" : 1, "artistid": 1},
+					{"name": "Squarepusher", "size" : 1, "artistid": 1},
+					{"name": "Plaid", "size" : 1, "artistid": 1},
+					{"name": "Del the Funky", "size" : 1, "artistid": 1},
+					{"name": "Homosapien", "size" : 1, "artistid": 1},
+					{"name": "Aceyalone", "size" : 1, "artistid": 1},
+					{"name": "Planet of the Drums", "size" : 1, "artistid": 1}
+				]
+			},{
+				"name": "Insomniac Tent",
+				"size": 12,
+				"children": [
+					{"name": "AK1200", "size" : 1, "artistid": 1},
+					{"name": "DJ Dara", "size" : 1, "artistid": 1},
+					{"name": "Dieselboy", "size" : 1, "artistid": 1},
+					{"name": "The Chemical Brothers", "size" : 1, "artistid": 1},
+					{"name": "Fatboy Slim", "size" : 1, "artistid": 1},
+					{"name": "Doc Martin", "size" : 1, "artistid": 1},
+					{"name": "Christopher Lawrence", "size" : 1, "artistid": 1},
+					{"name": "Überzone", "size" : 1, "artistid": 1},
+					{"name": "Ian Pooley", "size" : 1, "artistid": 1},
+					{"name": "Adam Freeland", "size" : 1, "artistid": 1},
+					{"name": "Jason Blakemore", "size" : 1, "artistid": 1},
+					{"name": "Swedish Egil", "size" : 1, "artistid": 1}
+				]
+			},{
+				"name": "Sahara Tent",
+				"size": 9,
+				"children": [
+					{"name": "Kruder & Dorfmeister", "size" : 1, "artistid": 1},
+					{"name": "Jason Bentley", "size" : 1, "artistid": 1},
+					{"name": "Photek", "size" : 1, "artistid": 1},
+					{"name": "Andrea Parker", "size" : 1, "artistid": 1},
+					{"name": "Smith & Mighty", "size" : 1, "artistid": 1},
+					{"name": "Detroit Grand Pubahs", "size" : 1, "artistid": 1},
+					{"name": "MC Supernatural", "size" : 1, "artistid": 1},
+					{"name": "Z-Trip", "size" : 1, "artistid": 1},
+					{"name": "Rinse & Flux", "size" : 1, "artistid": 1}
+				]
+			}]
+		}]
+	},{
+		"name":"2002",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"69 Acts",
+			"size":69,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 33,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "The Chemical Brothers", "size" : 1, "artistid": 1},
+								{"name": "Björk", "size" : 1, "artistid": 1},
+								{"name": "Siouxsie & the Banshees", "size" : 1, "artistid": 1},
+								{"name": "Jack Johnson", "size" : 1, "artistid": 1},
+								{"name": "Pete Yorn", "size" : 1, "artistid": 1},
+								{"name": "G. Love & Special Sauce", "size" : 1, "artistid": 1},
+								{"name": "KRS-One", "size" : 1, "artistid": 1},
+								{"name": "Princess Superstar", "size" : 1, "artistid": 1},
+								{"name": "Vin Rock", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Cake", "size" : 1, "artistid": 1},
+								{"name": "Jurassic 5", "size" : 1, "artistid": 1},
+								{"name": "The Beta Band", "size" : 1, "artistid": 1},
+								{"name": "Queens of the Stone Age", "size" : 1, "artistid": 1},
+								{"name": "The Charlatans", "size" : 1, "artistid": 1},
+								{"name": "Cornershop", "size" : 1, "artistid": 1},
+								{"name": "Folk Implosion", "size" : 1, "artistid": 1},
+								{"name": "Citizen Cope", "size" : 1, "artistid": 1},
+								{"name": "Saul Williams", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "The Noise Conspiracy", "size" : 1, "artistid": 1},
+								{"name": "The Vines", "size" : 1, "artistid": 1},
+								{"name": "Z-Trip", "size" : 1, "artistid": 1},
+								{"name": "Dan the Automator", "size" : 1, "artistid": 1},
+								{"name": "Kosheen", "size" : 1, "artistid": 1},
+								{"name": "The Pharcyde", "size" : 1, "artistid": 1},
+								{"name": "Forest for the Trees", "size" : 1, "artistid": 1},
+								{"name": "Cirrus", "size" : 1, "artistid": 1},
+								{"name": "Liquid Todd", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Sasha & Digweed", "size" : 1, "artistid": 1},
+								{"name": "Jimmy Van M & Lee Burridge", "size" : 1, "artistid": 1},
+								{"name": "Groove Armada", "size" : 1, "artistid": 1},
+								{"name": "Miguel Migs", "size" : 1, "artistid": 1},
+								{"name": "Lisa Shaw", "size" : 1, "artistid": 1},
+								{"name": "Jimmy Van M", "size" : 1, "artistid": 1},
+								{"name": "Lee Burridge", "size" : 1, "artistid": 1},
+								{"name": "DJ Mauricio Aviles", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 31,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Oasis", "size" : 1, "artistid": 1},
+								{"name": "The Prodigy", "size" : 1, "artistid": 1},
+								{"name": "Foo Fighters", "size" : 1, "artistid": 1},
+								{"name": "The Strokes", "size" : 1, "artistid": 1},
+								{"name": "Mos Def", "size" : 1, "artistid": 1},
+								{"name": "Saves the Day", "size" : 1, "artistid": 1},
+								{"name": "Mix Master Mike", "size" : 1, "artistid": 1},
+								{"name": "Vin Rock", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "Dilated Peoples", "size" : 1, "artistid": 1},
+								{"name": "Zero 7", "size" : 1, "artistid": 1},
+								{"name": "Belle & Sebastian", "size" : 1, "artistid": 1},
+								{"name": "Ozomatli", "size" : 1, "artistid": 1},
+								{"name": "Blonde Redhead", "size" : 1, "artistid": 1},
+								{"name": "Sound Tribe", "size" : 1, "artistid": 1},
+								{"name": "Sector 9", "size" : 1, "artistid": 1},
+								{"name": "Ping Pong Bitches", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Galactic", "size" : 1, "artistid": 1},
+								{"name": "Triple Threat", "size" : 1, "artistid": 1},
+								{"name": "Herbert", "size" : 1, "artistid": 1},
+								{"name": "Cut Chemist", "size" : 1, "artistid": 1},
+								{"name": "Rock Steady Crew", "size" : 1, "artistid": 1},
+								{"name": "The Mars Volta", "size" : 1, "artistid": 1},
+								{"name": "Elbow", "size" : 1, "artistid": 1},
+								{"name": "Fairview", "size" : 1, "artistid": 1},
+								{"name": "Wagner", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 6,
+							"children": [
+								{"name": "BT", "size" : 1, "artistid": 1},
+								{"name": "Pete Tong", "size" : 1, "artistid": 1},
+								{"name": "Tiësto", "size" : 1, "artistid": 1},
+								{"name": "Paul Oakenfold", "size" : 1, "artistid": 1},
+								{"name": "DJ Peretz", "size" : 1, "artistid": 1},
+								{"name": "DJ Dan", "size" : 1, "artistid": 1},
+								{"name": "Bad Boy Bill", "size" : 1, "artistid": 1},
+								{"name": "Sandra Collins", "size" : 1, "artistid": 1},
+								{"name": "Liquid Todd", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2003",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"90 Acts",
+			"size":90,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 45,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Beastie Boys", "size" : 1, "artistid": 1},
+								{"name": "Ben Harper & the Innocent Criminals", "size" : 1, "artistid": 1},
+								{"name": "Queens of the Stone Age", "size" : 1, "artistid": 1},
+								{"name": "Blur", "size" : 1, "artistid": 1},
+								{"name": "The Hives", "size" : 1, "artistid": 1},
+								{"name": "N.E.R.D", "size" : 1, "artistid": 1},
+								{"name": "Spymob", "size" : 1, "artistid": 1},
+								{"name": "The Donnas", "size" : 1, "artistid": 1},
+								{"name": "The Mooney Suzuki", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Gomez", "size" : 1, "artistid": 1},
+								{"name": "Blue Man Group", "size" : 1, "artistid": 1},
+								{"name": "Black Eyed Peas", "size" : 1, "artistid": 1},
+								{"name": "Talib Kweli", "size" : 1, "artistid": 1},
+								{"name": "Michael Franti", "size" : 1, "artistid": 1},
+								{"name": "Kinky", "size" : 1, "artistid": 1},
+								{"name": "Ben Kweller", "size" : 1, "artistid": 1},
+								{"name": "Joseph Arthur", "size" : 1, "artistid": 1},
+								{"name": "Particle", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "The Libertines", "size" : 1, "artistid": 1},
+								{"name": "Groove Armada", "size" : 1, "artistid": 1},
+								{"name": "Ladytron", "size" : 1, "artistid": 1},
+								{"name": "The Music", "size" : 1, "artistid": 1},
+								{"name": "Hot Hot Heat", "size" : 1, "artistid": 1},
+								{"name": "Badly Drawn Boy", "size" : 1, "artistid": 1},
+								{"name": "The Rapture", "size" : 1, "artistid": 1},
+								{"name": "Idlewild", "size" : 1, "artistid": 1},
+								{"name": "South", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Roger Sanchez", "size" : 1, "artistid": 1},
+								{"name": "Masters at Work", "size" : 1, "artistid": 1},
+								{"name": "Marques Wyatt", "size" : 1, "artistid": 1},
+								{"name": "Darren Emerson", "size" : 1, "artistid": 1},
+								{"name": "Felix da Housecat", "size" : 1, "artistid": 1},
+								{"name": "Christopher Lawrence", "size" : 1, "artistid": 1},
+								{"name": "Hernán Cattáneo", "size" : 1, "artistid": 1},
+								{"name": "D:Fuse", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Amon Tobin", "size" : 1, "artistid": 1},
+								{"name": "Dillinja", "size" : 1, "artistid": 1},
+								{"name": "Lemon D", "size" : 1, "artistid": 1},
+								{"name": "Stereo Total", "size" : 1, "artistid": 1},
+								{"name": "Peanut Butter Wolf", "size" : 1, "artistid": 1},
+								{"name": "Madlib", "size" : 1, "artistid": 1},
+								{"name": "Wildchild", "size" : 1, "artistid": 1},
+								{"name": "Ian MacKaye", "size" : 1, "artistid": 1},
+								{"name": "Medusa", "size" : 1, "artistid": 1},
+								{"name": "Tha Liks", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 45,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Red Hot Chili Peppers", "size" : 1, "artistid": 1},
+								{"name": "Iggy and the Stooges", "size" : 1, "artistid": 1},
+								{"name": "The White Stripes", "size" : 1, "artistid": 1},
+								{"name": "Jack Johnson", "size" : 1, "artistid": 1},
+								{"name": "Sonic Youth", "size" : 1, "artistid": 1},
+								{"name": "The Mars Volta", "size" : 1, "artistid": 1},
+								{"name": "The Polyphonic Spree", "size" : 1, "artistid": 1},
+								{"name": "The Soundtrack of Our Lives", "size" : 1, "artistid": 1},
+								{"name": "Whirlwind Heat", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Interpol", "size" : 1, "artistid": 1},
+								{"name": "Blue Man Group", "size" : 1, "artistid": 1},
+								{"name": "Thievery Corporation", "size" : 1, "artistid": 1},
+								{"name": "Primal Scream", "size" : 1, "artistid": 1},
+								{"name": "Café Tacvba", "size" : 1, "artistid": 1},
+								{"name": "Tortoise", "size" : 1, "artistid": 1},
+								{"name": "Ben Folds", "size" : 1, "artistid": 1},
+								{"name": "The Kinison", "size" : 1, "artistid": 1},
+								{"name": "Eisley", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Fischerspooner", "size" : 1, "artistid": 1},
+								{"name": "G. Love & Special Sauce", "size" : 1, "artistid": 1},
+								{"name": "Johnny Marr and the Healers", "size" : 1, "artistid": 1},
+								{"name": "Dirty Vegas", "size" : 1, "artistid": 1},
+								{"name": "Rooney", "size" : 1, "artistid": 1},
+								{"name": "22-20s", "size" : 1, "artistid": 1},
+								{"name": "The Von Bondies", "size" : 1, "artistid": 1},
+								{"name": "Ima Robot", "size" : 1, "artistid": 1},
+								{"name": "S.T.U.N.", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Richie Hawtin", "size" : 1, "artistid": 1},
+								{"name": "Underworld", "size" : 1, "artistid": 1},
+								{"name": "Darren Price of Underworld", "size" : 1, "artistid": 1},
+								{"name": "Deep Dish", "size" : 1, "artistid": 1},
+								{"name": "Timo Maas", "size" : 1, "artistid": 1},
+								{"name": "DB", "size" : 1, "artistid": 1},
+								{"name": "DJ Irene", "size" : 1, "artistid": 1},
+								{"name": "FC Kahuna", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "El-P", "size" : 1, "artistid": 1},
+								{"name": "Aesop Rock", "size" : 1, "artistid": 1},
+								{"name": "RJD2", "size" : 1, "artistid": 1},
+								{"name": "Mr. Lif", "size" : 1, "artistid": 1},
+								{"name": "Murs", "size" : 1, "artistid": 1},
+								{"name": "Mouse on Mars", "size" : 1, "artistid": 1},
+								{"name": "C-Minus", "size" : 1, "artistid": 1},
+								{"name": "Ursula Rucker", "size" : 1, "artistid": 1},
+								{"name": "Ian MacKaye", "size" : 1, "artistid": 1},
+								{"name": "Michael Franti", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2004",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"88 Acts",
+			"size":88,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 45,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Radiohead", "size" : 1, "artistid": 1},
+								{"name": "Pixies", "size" : 1, "artistid": 1},
+								{"name": "Sparta", "size" : 1, "artistid": 1},
+								{"name": "The Noise Conspiracy", "size" : 1, "artistid": 1},
+								{"name": "Hieroglyphics", "size" : 1, "artistid": 1},
+								{"name": "Kinky", "size" : 1, "artistid": 1},
+								{"name": "The Sounds", "size" : 1, "artistid": 1},
+								{"name": "The Section Quartet", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 11,
+							"children": [
+								{"name": "MF Doom", "size" : 1, "artistid": 1},
+								{"name": "Kool Keith", "size" : 1, "artistid": 1},
+								{"name": "Living Legends", "size" : 1, "artistid": 1},
+								{"name": "Eyedea & Abilities", "size" : 1, "artistid": 1},
+								{"name": "The Rapture", "size" : 1, "artistid": 1},
+								{"name": "The Desert Sessions", "size" : 1, "artistid": 1},
+								{"name": "Death Cab for Cutie", "size" : 1, "artistid": 1},
+								{"name": "Trail of Dead", "size" : 1, "artistid": 1},
+								{"name": "The Stills", "size" : 1, "artistid": 1},
+								{"name": "Howie Day", "size" : 1, "artistid": 1},
+								{"name": "dios", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 8,
+							"children": [
+								{"name": "Kraftwerk", "size" : 1, "artistid": 1},
+								{"name": "Mark Farina", "size" : 1, "artistid": 1},
+								{"name": "Laurent Garnier", "size" : 1, "artistid": 1},
+								{"name": "Sander Kleinenberg", "size" : 1, "artistid": 1},
+								{"name": "Danny Howells", "size" : 1, "artistid": 1},
+								{"name": "Seb Fontaine", "size" : 1, "artistid": 1},
+								{"name": "DJ Peretz", "size" : 1, "artistid": 1},
+								{"name": "DJ Icon", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 9,
+							"children": [
+								{"name": "Electric Six", "size" : 1, "artistid": 1},
+								{"name": "Mindless Self Indulgence", "size" : 1, "artistid": 1},
+								{"name": "Stereolab", "size" : 1, "artistid": 1},
+								{"name": "Moving Units", "size" : 1, "artistid": 1},
+								{"name": "The Black Keys", "size" : 1, "artistid": 1},
+								{"name": "Junior Senior", "size" : 1, "artistid": 1},
+								{"name": "stellastarr", "size" : 1, "artistid": 1},
+								{"name": "Sahara Hotnights", "size" : 1, "artistid": 1},
+								{"name": "Erase Errata", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Phantom Planet", "size" : 1, "artistid": 1},
+								{"name": "Da Lata", "size" : 1, "artistid": 1},
+								{"name": "Boozoo Bajou", "size" : 1, "artistid": 1},
+								{"name": "LCD Soundsystem", "size" : 1, "artistid": 1},
+								{"name": "Savath & Savalas", "size" : 1, "artistid": 1},
+								{"name": "Beck", "size" : 1, "artistid": 1},
+								{"name": "Q and Not U", "size" : 1, "artistid": 1},
+								{"name": "The Evens", "size" : 1, "artistid": 1},
+								{"name": "Juana Molina", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 43,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "The Cure", "size" : 1, "artistid": 1},
+								{"name": "The Flaming Lips", "size" : 1, "artistid": 1},
+								{"name": "Air", "size" : 1, "artistid": 1},
+								{"name": "Belle & Sebastian", "size" : 1, "artistid": 1},
+								{"name": "Thursday", "size" : 1, "artistid": 1},
+								{"name": "Muse", "size" : 1, "artistid": 1},
+								{"name": "Antibalas Afrobeat Orchestra", "size" : 1, "artistid": 1},
+								{"name": "Saul Williams", "size" : 1, "artistid": 1},
+								{"name": "Thelonious Monster", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Le Tigre", "size" : 1, "artistid": 1},
+								{"name": "Basement Jaxx", "size" : 1, "artistid": 1},
+								{"name": "Black Rebel Motorcycle Club", "size" : 1, "artistid": 1},
+								{"name": "Bright Eyes", "size" : 1, "artistid": 1},
+								{"name": "Cursive", "size" : 1, "artistid": 1},
+								{"name": "Atmosphere", "size" : 1, "artistid": 1},
+								{"name": "Broken Social Scene", "size" : 1, "artistid": 1},
+								{"name": "Chk Chk Chk", "size" : 1, "artistid": 1},
+								{"name": "Pretty Girls Make Graves", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Ash", "size" : 1, "artistid": 1},
+								{"name": "Mogwai", "size" : 1, "artistid": 1},
+								{"name": "The Sleepy Jackson", "size" : 1, "artistid": 1},
+								{"name": "Dizzee Rascal", "size" : 1, "artistid": 1},
+								{"name": "The Cooper Temple Clause", "size" : 1, "artistid": 1},
+								{"name": "The Thrills", "size" : 1, "artistid": 1},
+								{"name": "Elefant", "size" : 1, "artistid": 1},
+								{"name": "Home Town Hero", "size" : 1, "artistid": 1},
+								{"name": "Whitestarr", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Paul van Dyk", "size" : 1, "artistid": 1},
+								{"name": "Ferry Corsten", "size" : 1, "artistid": 1},
+								{"name": "Crystal Method", "size" : 1, "artistid": 1},
+								{"name": "Adam Freeland", "size" : 1, "artistid": 1},
+								{"name": "2manyDJs", "size" : 1, "artistid": 1},
+								{"name": "Donald Glaude", "size" : 1, "artistid": 1},
+								{"name": "DJ Peretz", "size" : 1, "artistid": 1},
+								{"name": "Hybrid", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 8,
+							"children": [
+								{"name": "Sidestepper", "size" : 1, "artistid": 1},
+								{"name": "Danger Mouse", "size" : 1, "artistid": 1},
+								{"name": "Prefuse 73", "size" : 1, "artistid": 1},
+								{"name": "Sage Francis", "size" : 1, "artistid": 1},
+								{"name": "The Killers", "size" : 1, "artistid": 1},
+								{"name": "Saul Williams", "size" : 1, "artistid": 1},
+								{"name": "The Section Quartet", "size" : 1, "artistid": 1},
+								{"name": "Supernatural", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2005",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"92 Acts",
+			"size":92,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 44,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Coldplay", "size" : 1, "artistid": 1},
+								{"name": "Bauhaus", "size" : 1, "artistid": 1},
+								{"name": "Weezer", "size" : 1, "artistid": 1},
+								{"name": "Wilco", "size" : 1, "artistid": 1},
+								{"name": "Keane", "size" : 1, "artistid": 1},
+								{"name": "Snow Patrol", "size" : 1, "artistid": 1},
+								{"name": "The Raveonettes", "size" : 1, "artistid": 1},
+								{"name": "Buck 65", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Spoon", "size" : 1, "artistid": 1},
+								{"name": "Mercury Rev", "size" : 1, "artistid": 1},
+								{"name": "Sage Francis", "size" : 1, "artistid": 1},
+								{"name": "Café Tacvba", "size" : 1, "artistid": 1},
+								{"name": "Rilo Kiley", "size" : 1, "artistid": 1},
+								{"name": "Razorlight", "size" : 1, "artistid": 1},
+								{"name": "Eisley", "size" : 1, "artistid": 1},
+								{"name": "Jamie Cullum", "size" : 1, "artistid": 1},
+								{"name": "Nic Armstrong & the Thieves", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Fantômas", "size" : 1, "artistid": 1},
+								{"name": "Bloc Party", "size" : 1, "artistid": 1},
+								{"name": "The Secret Machines", "size" : 1, "artistid": 1},
+								{"name": "MF Doom", "size" : 1, "artistid": 1},
+								{"name": "Stereophonics", "size" : 1, "artistid": 1},
+								{"name": "The Kills", "size" : 1, "artistid": 1},
+								{"name": "Ambulance LTD", "size" : 1, "artistid": 1},
+								{"name": "Radio 4", "size" : 1, "artistid": 1},
+								{"name": "Gratitude", "size" : 1, "artistid": 1},
+								{"name": "The Sexy Magazines", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 7,
+							"children": [
+								{"name": "The Chemical Brothers", "size" : 1, "artistid": 1},
+								{"name": "Hernán Cattáneo", "size" : 1, "artistid": 1},
+								{"name": "Josh Wink", "size" : 1, "artistid": 1},
+								{"name": "U.N.K.L.E.", "size" : 1, "artistid": 1},
+								{"name": "Tiga", "size" : 1, "artistid": 1},
+								{"name": "DJ Marky", "size" : 1, "artistid": 1},
+								{"name": "DJ Peretz", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Zap Mama", "size" : 1, "artistid": 1},
+								{"name": "Amp Fiddler", "size" : 1, "artistid": 1},
+								{"name": "Four Tet", "size" : 1, "artistid": 1},
+								{"name": "Swayzak", "size" : 1, "artistid": 1},
+								{"name": "Jean Grae", "size" : 1, "artistid": 1},
+								{"name": "Immortal Technique", "size" : 1, "artistid": 1},
+								{"name": "M83", "size" : 1, "artistid": 1},
+								{"name": "k-os", "size" : 1, "artistid": 1},
+								{"name": "Katie Melua", "size" : 1, "artistid": 1},
+								{"name": "Boom Bip", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 48,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Black Star", "size" : 1, "artistid": 1},
+								{"name": "Nine Inch Nails", "size" : 1, "artistid": 1},
+								{"name": "New Order", "size" : 1, "artistid": 1},
+								{"name": "Gang of Four", "size" : 1, "artistid": 1},
+								{"name": "The Futureheads", "size" : 1, "artistid": 1},
+								{"name": "Thrice", "size" : 1, "artistid": 1},
+								{"name": "The Perceptionists", "size" : 1, "artistid": 1},
+								{"name": "Gram Rabbit", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Bright Eyes", "size" : 1, "artistid": 1},
+								{"name": "The Faint", "size" : 1, "artistid": 1},
+								{"name": "British Sea Power", "size" : 1, "artistid": 1},
+								{"name": "Aesop Rock", "size" : 1, "artistid": 1},
+								{"name": "Arcade Fire", "size" : 1, "artistid": 1},
+								{"name": "Tegan and Sara", "size" : 1, "artistid": 1},
+								{"name": "The Fiery Furnaces", "size" : 1, "artistid": 1},
+								{"name": "Jem", "size" : 1, "artistid": 1},
+								{"name": "Donavon Frankenreiter", "size" : 1, "artistid": 1},
+								{"name": "Shout Out Louds", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "The Locust", "size" : 1, "artistid": 1},
+								{"name": "The Blood Brothers", "size" : 1, "artistid": 1},
+								{"name": "Pinback", "size" : 1, "artistid": 1},
+								{"name": "The Dresden Dolls", "size" : 1, "artistid": 1},
+								{"name": "Roots Manuva", "size" : 1, "artistid": 1},
+								{"name": "The Bravery", "size" : 1, "artistid": 1},
+								{"name": "Kasabian", "size" : 1, "artistid": 1},
+								{"name": "Autolux", "size" : 1, "artistid": 1},
+								{"name": "Sloan", "size" : 1, "artistid": 1},
+								{"name": "Midlake", "size" : 1, "artistid": 1},
+								{"name": "Goodbye Radar", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "The Prodigy", "size" : 1, "artistid": 1},
+								{"name": "Roni Size", "size" : 1, "artistid": 1},
+								{"name": "Dynamite MC", "size" : 1, "artistid": 1},
+								{"name": "Armin van Buuren", "size" : 1, "artistid": 1},
+								{"name": "Junkie XL", "size" : 1, "artistid": 1},
+								{"name": "Miss Kittin", "size" : 1, "artistid": 1},
+								{"name": "Ben Watt", "size" : 1, "artistid": 1},
+								{"name": "Matthew Dear", "size" : 1, "artistid": 1},
+								{"name": "Diplo", "size" : 1, "artistid": 1},
+								{"name": "DJ Jun", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Wolf Eyes", "size" : 1, "artistid": 1},
+								{"name": "Matmos", "size" : 1, "artistid": 1},
+								{"name": "DJ Krush", "size" : 1, "artistid": 1},
+								{"name": "Z-Trip", "size" : 1, "artistid": 1},
+								{"name": "Beans", "size" : 1, "artistid": 1},
+								{"name": "M.I.A.", "size" : 1, "artistid": 1},
+								{"name": "Sixtoo", "size" : 1, "artistid": 1},
+								{"name": "Subtle", "size" : 1, "artistid": 1},
+								{"name": "Zion I", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2006",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"95 Acts",
+			"size":95,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Saturday",
+					"size": 48,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Depeche Mode", "size" : 1, "artistid": 1},
+								{"name": "Franz Ferdinand", "size" : 1, "artistid": 1},
+								{"name": "Sigur Rós", "size" : 1, "artistid": 1},
+								{"name": "Kanye West", "size" : 1, "artistid": 1},
+								{"name": "Common", "size" : 1, "artistid": 1},
+								{"name": "The Duke Spirit", "size" : 1, "artistid": 1},
+								{"name": "The Walkmen", "size" : 1, "artistid": 1},
+								{"name": "The New Amsterdams", "size" : 1, "artistid": 1},
+								{"name": "The Section Quartet", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "She Wants Revenge", "size" : 1, "artistid": 1},
+								{"name": "Atmosphere", "size" : 1, "artistid": 1},
+								{"name": "Eagles of Death Metal", "size" : 1, "artistid": 1},
+								{"name": "Damian Marley", "size" : 1, "artistid": 1},
+								{"name": "My Morning Jacket", "size" : 1, "artistid": 1},
+								{"name": "Animal Collective", "size" : 1, "artistid": 1},
+								{"name": "The Zutons", "size" : 1, "artistid": 1},
+								{"name": "Matt Costa", "size" : 1, "artistid": 1},
+								{"name": "The Like", "size" : 1, "artistid": 1},
+								{"name": "Head Automatica", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "The Rakes", "size" : 1, "artistid": 1},
+								{"name": "Living Things", "size" : 1, "artistid": 1},
+								{"name": "Cat Power", "size" : 1, "artistid": 1},
+								{"name": "Ladytron", "size" : 1, "artistid": 1},
+								{"name": "TV on the Radio", "size" : 1, "artistid": 1},
+								{"name": "Clap Your Hands Say Yeah", "size" : 1, "artistid": 1},
+								{"name": "Wolf Mother", "size" : 1, "artistid": 1},
+								{"name": "Nine Black Alps", "size" : 1, "artistid": 1},
+								{"name": "White Rose Movement", "size" : 1, "artistid": 1},
+								{"name": "Rob Dickinson", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 9,
+							"children": [
+								{"name": "Daft Punk", "size" : 1, "artistid": 1},
+								{"name": "Audio Bullys", "size" : 1, "artistid": 1},
+								{"name": "Carl Cox", "size" : 1, "artistid": 1},
+								{"name": "Derrick Carter", "size" : 1, "artistid": 1},
+								{"name": "Colette", "size" : 1, "artistid": 1},
+								{"name": "Joey Beltram", "size" : 1, "artistid": 1},
+								{"name": "Hybrid", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "Infusion", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Tosca", "size" : 1, "artistid": 1},
+								{"name": "The Juan MacLean", "size" : 1, "artistid": 1},
+								{"name": "Devendra Banhart", "size" : 1, "artistid": 1},
+								{"name": "Imogen Heap", "size" : 1, "artistid": 1},
+								{"name": "Deerhoof", "size" : 1, "artistid": 1},
+								{"name": "Lyrics Born", "size" : 1, "artistid": 1},
+								{"name": "Lady Sovereign", "size" : 1, "artistid": 1},
+								{"name": "Platinum Pied Pipers", "size" : 1, "artistid": 1},
+								{"name": "Celebration", "size" : 1, "artistid": 1},
+								{"name": "Brother Ali", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 47,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Tool", "size" : 1, "artistid": 1},
+								{"name": "Massive Attack", "size" : 1, "artistid": 1},
+								{"name": "Yeah Yeah Yeahs", "size" : 1, "artistid": 1},
+								{"name": "Sleater-Kinney", "size" : 1, "artistid": 1},
+								{"name": "Matisyahu", "size" : 1, "artistid": 1},
+								{"name": "The Magic Numbers", "size" : 1, "artistid": 1},
+								{"name": "Los Amigos Invisibles", "size" : 1, "artistid": 1},
+								{"name": "Youth Group", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Scissor Sisters", "size" : 1, "artistid": 1},
+								{"name": "The Go! Team", "size" : 1, "artistid": 1},
+								{"name": "Mogwai", "size" : 1, "artistid": 1},
+								{"name": "Digable Planets", "size" : 1, "artistid": 1},
+								{"name": "Bloc Party", "size" : 1, "artistid": 1},
+								{"name": "Minus the Bear", "size" : 1, "artistid": 1},
+								{"name": "Ted Leo and the Pharmacists", "size" : 1, "artistid": 1},
+								{"name": "Mates of State", "size" : 1, "artistid": 1},
+								{"name": "Giant Drag", "size" : 1, "artistid": 1},
+								{"name": "The Octopus Project", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Art Brut", "size" : 1, "artistid": 1},
+								{"name": "Dungen", "size" : 1, "artistid": 1},
+								{"name": "Coheed and Cambria", "size" : 1, "artistid": 1},
+								{"name": "Editors", "size" : 1, "artistid": 1},
+								{"name": "stellastarr", "size" : 1, "artistid": 1},
+								{"name": "Wolf Parade", "size" : 1, "artistid": 1},
+								{"name": "Metric", "size" : 1, "artistid": 1},
+								{"name": "James Blunt", "size" : 1, "artistid": 1},
+								{"name": "The Dears", "size" : 1, "artistid": 1},
+								{"name": "Be Your Own Pet", "size" : 1, "artistid": 1},
+								{"name": "OneRepublic", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Michael Mayer", "size" : 1, "artistid": 1},
+								{"name": "Mylo", "size" : 1, "artistid": 1},
+								{"name": "Madonna", "size" : 1, "artistid": 1},
+								{"name": "Paul Oakenfold", "size" : 1, "artistid": 1},
+								{"name": "Kaskade", "size" : 1, "artistid": 1},
+								{"name": "Louie Vega", "size" : 1, "artistid": 1},
+								{"name": "Gabriel & Dresden", "size" : 1, "artistid": 1},
+								{"name": "Kristina Sky", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Jazzanova", "size" : 1, "artistid": 1},
+								{"name": "Gilles Peterson", "size" : 1, "artistid": 1},
+								{"name": "Coldcut", "size" : 1, "artistid": 1},
+								{"name": "Seu Jorge", "size" : 1, "artistid": 1},
+								{"name": "Gnarls Barkley", "size" : 1, "artistid": 1},
+								{"name": "Jamie Lidell", "size" : 1, "artistid": 1},
+								{"name": "Phoenix", "size" : 1, "artistid": 1},
+								{"name": "Amadou & Mariam", "size" : 1, "artistid": 1},
+								{"name": "Murs featuring 9th Wonder", "size" : 1, "artistid": 1},
+								{"name": "Infadels", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2007",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"124 Acts",
+			"size":124,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 38,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Björk", "size" : 1, "artistid": 1},
+								{"name": "Interpol", "size" : 1, "artistid": 1},
+								{"name": "The Jesus and Mary Chain", "size" : 1, "artistid": 1},
+								{"name": "Arctic Monkeys", "size" : 1, "artistid": 1},
+								{"name": "Silversun Pickups", "size" : 1, "artistid": 1},
+								{"name": "Satellite Party", "size" : 1, "artistid": 1},
+								{"name": "Brother Ali", "size" : 1, "artistid": 1},
+								{"name": "Flosstradamus", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "DJ Shadow", "size" : 1, "artistid": 1},
+								{"name": "Sonic Youth", "size" : 1, "artistid": 1},
+								{"name": "Jarvis Cocker", "size" : 1, "artistid": 1},
+								{"name": "Peaches", "size" : 1, "artistid": 1},
+								{"name": "Stephen Marley", "size" : 1, "artistid": 1},
+								{"name": "Jr. Gong", "size" : 1, "artistid": 1},
+								{"name": "Of Montreal", "size" : 1, "artistid": 1},
+								{"name": "Nickel Creek", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 8,
+							"children": [
+								{"name": "Gogol Bordello", "size" : 1, "artistid": 1},
+								{"name": "El-P", "size" : 1, "artistid": 1},
+								{"name": "Peeping Tom", "size" : 1, "artistid": 1},
+								{"name": "Rufus Wainwright", "size" : 1, "artistid": 1},
+								{"name": "Circa Survive", "size" : 1, "artistid": 1},
+								{"name": "Tilly and the Wall", "size" : 1, "artistid": 1},
+								{"name": "Tokyo Police Club", "size" : 1, "artistid": 1},
+								{"name": "Noisettes", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 8,
+							"children": [
+								{"name": "Evil Nine", "size" : 1, "artistid": 1},
+								{"name": "Faithless", "size" : 1, "artistid": 1},
+								{"name": "Benny Benassi", "size" : 1, "artistid": 1},
+								{"name": "Felix Da Housecat", "size" : 1, "artistid": 1},
+								{"name": "Digitalism", "size" : 1, "artistid": 1},
+								{"name": "David Guetta", "size" : 1, "artistid": 1},
+								{"name": "Charles Feelgood", "size" : 1, "artistid": 1},
+								{"name": "Terry Mullan", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 6,
+							"children": [
+								{"name": "Brazilian Girls", "size" : 1, "artistid": 1},
+								{"name": "Busdriver", "size" : 1, "artistid": 1},
+								{"name": "Julieta Venegas", "size" : 1, "artistid": 1},
+								{"name": "Amy Winehouse", "size" : 1, "artistid": 1},
+								{"name": "Gillian Welch", "size" : 1, "artistid": 1},
+								{"name": "Comedians of Comedy", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 43,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Tiësto", "size" : 1, "artistid": 1},
+								{"name": "Red Hot Chili Peppers", "size" : 1, "artistid": 1},
+								{"name": "Arcade Fire", "size" : 1, "artistid": 1},
+								{"name": "Kings of Leon", "size" : 1, "artistid": 1},
+								{"name": "Travis", "size" : 1, "artistid": 1},
+								{"name": "Regina Spektor", "size" : 1, "artistid": 1},
+								{"name": "Fountains of Wayne", "size" : 1, "artistid": 1},
+								{"name": "Pharoahe Monch", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "The Good", "size" : 1, "artistid": 1},
+								{"name": "the Bad & the Queen", "size" : 1, "artistid": 1},
+								{"name": "Gotan Project", "size" : 1, "artistid": 1},
+								{"name": "Blonde Redhead", "size" : 1, "artistid": 1},
+								{"name": "Ghostface Killah", "size" : 1, "artistid": 1},
+								{"name": "The Decemberists", "size" : 1, "artistid": 1},
+								{"name": "The New Pornographers", "size" : 1, "artistid": 1},
+								{"name": "Jack's Mannequin", "size" : 1, "artistid": 1},
+								{"name": "The Frames", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "The Black Keys", "size" : 1, "artistid": 1},
+								{"name": "Sparklehorse", "size" : 1, "artistid": 1},
+								{"name": "Ozomatli", "size" : 1, "artistid": 1},
+								{"name": "Chk Chk Chk", "size" : 1, "artistid": 1},
+								{"name": "Peter Bjorn and John", "size" : 1, "artistid": 1},
+								{"name": "Hot Chip", "size" : 1, "artistid": 1},
+								{"name": "The Fratellis", "size" : 1, "artistid": 1},
+								{"name": "The Cribs", "size" : 1, "artistid": 1},
+								{"name": "Fields", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 7,
+							"children": [
+								{"name": "The Rapture", "size" : 1, "artistid": 1},
+								{"name": "LCD Soundsystem", "size" : 1, "artistid": 1},
+								{"name": "Justice", "size" : 1, "artistid": 1},
+								{"name": "Busy P & DJ Mehdi", "size" : 1, "artistid": 1},
+								{"name": "MSTRKRFT", "size" : 1, "artistid": 1},
+								{"name": "DJ Heather", "size" : 1, "artistid": 1},
+								{"name": "Steve Aoki", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Cornelius", "size" : 1, "artistid": 1},
+								{"name": "Mike Relm", "size" : 1, "artistid": 1},
+								{"name": "Girl Talk", "size" : 1, "artistid": 1},
+								{"name": "CocoRosie", "size" : 1, "artistid": 1},
+								{"name": "Andrew Bird", "size" : 1, "artistid": 1},
+								{"name": "The Nightwatchman", "size" : 1, "artistid": 1},
+								{"name": "Roky Erickson", "size" : 1, "artistid": 1},
+								{"name": "Chuck Dukowski Sextet", "size" : 1, "artistid": 1},
+								{"name": "Yeva", "size" : 1, "artistid": 1},
+								{"name": "Pop Levi", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 43,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Rage Against the Machine", "size" : 1, "artistid": 1},
+								{"name": "Manu Chao Radio Bemba Sound System", "size" : 1, "artistid": 1},
+								{"name": "Crowded House", "size" : 1, "artistid": 1},
+								{"name": "Willie Nelson", "size" : 1, "artistid": 1},
+								{"name": "The Roots", "size" : 1, "artistid": 1},
+								{"name": "Explosions in the Sky", "size" : 1, "artistid": 1},
+								{"name": "The Feeling", "size" : 1, "artistid": 1},
+								{"name": "Lupe Fiasco", "size" : 1, "artistid": 1},
+								{"name": "Mika", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "The Lemonheads", "size" : 1, "artistid": 1},
+								{"name": "Damien Rice", "size" : 1, "artistid": 1},
+								{"name": "Air", "size" : 1, "artistid": 1},
+								{"name": "Placebo", "size" : 1, "artistid": 1},
+								{"name": "Kaiser Chiefs", "size" : 1, "artistid": 1},
+								{"name": "Against Me!", "size" : 1, "artistid": 1},
+								{"name": "The Coup", "size" : 1, "artistid": 1},
+								{"name": "Mando Diao", "size" : 1, "artistid": 1},
+								{"name": "Anathallo", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "VNV Nation", "size" : 1, "artistid": 1},
+								{"name": "Ratatat", "size" : 1, "artistid": 1},
+								{"name": "Lily Allen", "size" : 1, "artistid": 1},
+								{"name": "Klaxons", "size" : 1, "artistid": 1},
+								{"name": "CSS", "size" : 1, "artistid": 1},
+								{"name": "Junior Boys", "size" : 1, "artistid": 1},
+								{"name": "The Kooks", "size" : 1, "artistid": 1},
+								{"name": "Tapes 'n Tapes", "size" : 1, "artistid": 1},
+								{"name": "Fair to Midland", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 7,
+							"children": [
+								{"name": "Infected Mushroom", "size" : 1, "artistid": 1},
+								{"name": "Happy Mondays", "size" : 1, "artistid": 1},
+								{"name": "Paul van Dyk", "size" : 1, "artistid": 1},
+								{"name": "Richie Hawtin", "size" : 1, "artistid": 1},
+								{"name": "Soulwax Nite Versions", "size" : 1, "artistid": 1},
+								{"name": "Trent Cantrelle", "size" : 1, "artistid": 1},
+								{"name": "DJ Dayhota", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Spank Rock", "size" : 1, "artistid": 1},
+								{"name": "Teddybears", "size" : 1, "artistid": 1},
+								{"name": "Amos Lee", "size" : 1, "artistid": 1},
+								{"name": "José González", "size" : 1, "artistid": 1},
+								{"name": "Konono Nº1", "size" : 1, "artistid": 1},
+								{"name": "Rodrigo y Gabriela", "size" : 1, "artistid": 1},
+								{"name": "Grizzly Bear", "size" : 1, "artistid": 1},
+								{"name": "The Avett Brothers", "size" : 1, "artistid": 1},
+								{"name": "Kid Beyond", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2008",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"133 Acts",
+			"size":133,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 43,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Jack Johnson", "size" : 1, "artistid": 1},
+								{"name": "The Verve", "size" : 1, "artistid": 1},
+								{"name": "The Raconteurs", "size" : 1, "artistid": 1},
+								{"name": "Tegan and Sara", "size" : 1, "artistid": 1},
+								{"name": "The Breeders", "size" : 1, "artistid": 1},
+								{"name": "Slightly Stoopid", "size" : 1, "artistid": 1},
+								{"name": "John Butler Trio", "size" : 1, "artistid": 1},
+								{"name": "Rogue Wave", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 7,
+							"children": [
+								{"name": "Serj Tankian", "size" : 1, "artistid": 1},
+								{"name": "The Swell Season", "size" : 1, "artistid": 1},
+								{"name": "The National", "size" : 1, "artistid": 1},
+								{"name": "Vampire Weekend", "size" : 1, "artistid": 1},
+								{"name": "Architecture in Helsinki", "size" : 1, "artistid": 1},
+								{"name": "Les Savy Fav", "size" : 1, "artistid": 1},
+								{"name": "Luckyiam", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Black Lips", "size" : 1, "artistid": 1},
+								{"name": "Sharon Jones & The Dap-Kings", "size" : 1, "artistid": 1},
+								{"name": "Aesop Rock", "size" : 1, "artistid": 1},
+								{"name": "Goldfrapp", "size" : 1, "artistid": 1},
+								{"name": "múm", "size" : 1, "artistid": 1},
+								{"name": "Jens Lekman", "size" : 1, "artistid": 1},
+								{"name": "Black Kids", "size" : 1, "artistid": 1},
+								{"name": "Redd Kross", "size" : 1, "artistid": 1},
+								{"name": "American Bang", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Fatboy Slim", "size" : 1, "artistid": 1},
+								{"name": "Pendulum", "size" : 1, "artistid": 1},
+								{"name": "Aphex Twin", "size" : 1, "artistid": 1},
+								{"name": "Diplo", "size" : 1, "artistid": 1},
+								{"name": "Sandra Collins", "size" : 1, "artistid": 1},
+								{"name": "Adam Freeland", "size" : 1, "artistid": 1},
+								{"name": "Busy P", "size" : 1, "artistid": 1},
+								{"name": "SebastiAn", "size" : 1, "artistid": 1},
+								{"name": "Midnight Juggernauts", "size" : 1, "artistid": 1},
+								{"name": "DJ Mehdi", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Professor Murder", "size" : 1, "artistid": 1},
+								{"name": "Spank Rock", "size" : 1, "artistid": 1},
+								{"name": "Datarock", "size" : 1, "artistid": 1},
+								{"name": "Santogold", "size" : 1, "artistid": 1},
+								{"name": "dan le sac vs Scroobius Pip", "size" : 1, "artistid": 1},
+								{"name": "Cut Copy", "size" : 1, "artistid": 1},
+								{"name": "Dan Deacon", "size" : 1, "artistid": 1},
+								{"name": "Battles", "size" : 1, "artistid": 1},
+								{"name": "Porter", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 48,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Prince", "size" : 1, "artistid": 1},
+								{"name": "Portishead", "size" : 1, "artistid": 1},
+								{"name": "Kraftwerk", "size" : 1, "artistid": 1},
+								{"name": "Death Cab for Cutie", "size" : 1, "artistid": 1},
+								{"name": "Café Tacvba", "size" : 1, "artistid": 1},
+								{"name": "Cold War Kids", "size" : 1, "artistid": 1},
+								{"name": "Minus the Bear", "size" : 1, "artistid": 1},
+								{"name": "VHS or Beta", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Flogging Molly", "size" : 1, "artistid": 1},
+								{"name": "Mark Ronson", "size" : 1, "artistid": 1},
+								{"name": "Rilo Kiley", "size" : 1, "artistid": 1},
+								{"name": "Dwight Yoakam", "size" : 1, "artistid": 1},
+								{"name": "Stephen Malkmus and the Jicks", "size" : 1, "artistid": 1},
+								{"name": "DeVotchKa", "size" : 1, "artistid": 1},
+								{"name": "dredg", "size" : 1, "artistid": 1},
+								{"name": "Little Brother", "size" : 1, "artistid": 1},
+								{"name": "Jupiter's Ring", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Enter Shikari", "size" : 1, "artistid": 1},
+								{"name": "Yelle", "size" : 1, "artistid": 1},
+								{"name": "Animal Collective", "size" : 1, "artistid": 1},
+								{"name": "Islands", "size" : 1, "artistid": 1},
+								{"name": "Scars on Broadway", "size" : 1, "artistid": 1},
+								{"name": "Kate Nash", "size" : 1, "artistid": 1},
+								{"name": "MGMT", "size" : 1, "artistid": 1},
+								{"name": "Man Man", "size" : 1, "artistid": 1},
+								{"name": "The Teenagers", "size" : 1, "artistid": 1},
+								{"name": "The Bird and the Bee", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 12,
+							"children": [
+								{"name": "Above & Beyond", "size" : 1, "artistid": 1},
+								{"name": "Sasha & John Digweed", "size" : 1, "artistid": 1},
+								{"name": "M.I.A.", "size" : 1, "artistid": 1},
+								{"name": "Junkie XL", "size" : 1, "artistid": 1},
+								{"name": "Hot Chip", "size" : 1, "artistid": 1},
+								{"name": "Erol Alkan", "size" : 1, "artistid": 1},
+								{"name": "Boys Noize", "size" : 1, "artistid": 1},
+								{"name": "James Zabiela", "size" : 1, "artistid": 1},
+								{"name": "Kavinsky", "size" : 1, "artistid": 1},
+								{"name": "Uffie", "size" : 1, "artistid": 1},
+								{"name": "DJ Mehdi", "size" : 1, "artistid": 1},
+								{"name": "Institubes", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Calvin Harris", "size" : 1, "artistid": 1},
+								{"name": "Akron/Family", "size" : 1, "artistid": 1},
+								{"name": "Yo! Majesty", "size" : 1, "artistid": 1},
+								{"name": "The Cinematic Orchestra", "size" : 1, "artistid": 1},
+								{"name": "St. Vincent", "size" : 1, "artistid": 1},
+								{"name": "Bonde do Rolê", "size" : 1, "artistid": 1},
+								{"name": "120 Days", "size" : 1, "artistid": 1},
+								{"name": "Carbon/Silicon", "size" : 1, "artistid": 1},
+								{"name": "Yoav", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 42,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Roger Waters", "size" : 1, "artistid": 1},
+								{"name": "My Morning Jacket", "size" : 1, "artistid": 1},
+								{"name": "Sean Penn", "size" : 1, "artistid": 1},
+								{"name": "Gogol Bordello", "size" : 1, "artistid": 1},
+								{"name": "Stars", "size" : 1, "artistid": 1},
+								{"name": "Shout Out Louds", "size" : 1, "artistid": 1},
+								{"name": "The Cool Kids", "size" : 1, "artistid": 1},
+								{"name": "Austin TV", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 7,
+							"children": [
+								{"name": "Love and Rockets", "size" : 1, "artistid": 1},
+								{"name": "Metric", "size" : 1, "artistid": 1},
+								{"name": "Autolux", "size" : 1, "artistid": 1},
+								{"name": "Manchester Orchestra", "size" : 1, "artistid": 1},
+								{"name": "Electric Touch", "size" : 1, "artistid": 1},
+								{"name": "Grand Ole Party", "size" : 1, "artistid": 1},
+								{"name": "Vas Defrans", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Black Mountain", "size" : 1, "artistid": 1},
+								{"name": "Murs", "size" : 1, "artistid": 1},
+								{"name": "Sia", "size" : 1, "artistid": 1},
+								{"name": "Spiritualized", "size" : 1, "artistid": 1},
+								{"name": "Swervedriver", "size" : 1, "artistid": 1},
+								{"name": "Duffy", "size" : 1, "artistid": 1},
+								{"name": "I'm from Barcelona", "size" : 1, "artistid": 1},
+								{"name": "Annuals", "size" : 1, "artistid": 1},
+								{"name": "Plastiscines", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Justice", "size" : 1, "artistid": 1},
+								{"name": "Chromeo", "size" : 1, "artistid": 1},
+								{"name": "Simian Mobile Disco", "size" : 1, "artistid": 1},
+								{"name": "Modeselektor", "size" : 1, "artistid": 1},
+								{"name": "Danny Tenaglia", "size" : 1, "artistid": 1},
+								{"name": "Booka Shade", "size" : 1, "artistid": 1},
+								{"name": "deadmau5", "size" : 1, "artistid": 1},
+								{"name": "Dimitri from Paris", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "Institubes", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 8,
+							"children": [
+								{"name": "Sons and Daughters", "size" : 1, "artistid": 1},
+								{"name": "Kid Sister A-Trak", "size" : 1, "artistid": 1},
+								{"name": "Does It Offend You", "size" : 1, "artistid": 1},
+								{"name": "Yeah?", "size" : 1, "artistid": 1},
+								{"name": "Holy F*ck", "size" : 1, "artistid": 1},
+								{"name": "Sean Penn", "size" : 1, "artistid": 1},
+								{"name": "Linton Kwesi Johnson", "size" : 1, "artistid": 1},
+								{"name": "Brett Dennen", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2009",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"132 Acts",
+			"size":132,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 44,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "Paul McCartney", "size" : 1, "artistid": 1},
+								{"name": "Morrissey", "size" : 1, "artistid": 1},
+								{"name": "Franz Ferdinand", "size" : 1, "artistid": 1},
+								{"name": "The Black Keys", "size" : 1, "artistid": 1},
+								{"name": "The Airborne Toxic Event", "size" : 1, "artistid": 1},
+								{"name": "We Are Scientists", "size" : 1, "artistid": 1},
+								{"name": "The Courteeners", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 7,
+							"children": [
+								{"name": "Silversun Pickups", "size" : 1, "artistid": 1},
+								{"name": "Leonard Cohen", "size" : 1, "artistid": 1},
+								{"name": "Conor Oberst and the Mystic Valley Band", "size" : 1, "artistid": 1},
+								{"name": "M. Ward", "size" : 1, "artistid": 1},
+								{"name": "Molotov", "size" : 1, "artistid": 1},
+								{"name": "Noah and the Whale", "size" : 1, "artistid": 1},
+								{"name": "Alberta Cross", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Genghis Tron", "size" : 1, "artistid": 1},
+								{"name": "Mike Patton", "size" : 1, "artistid": 1},
+								{"name": "Rahzel", "size" : 1, "artistid": 1},
+								{"name": "Beirut", "size" : 1, "artistid": 1},
+								{"name": "N.A.S.A.", "size" : 1, "artistid": 1},
+								{"name": "White Lies", "size" : 1, "artistid": 1},
+								{"name": "The Hold Steady", "size" : 1, "artistid": 1},
+								{"name": "Cage the Elephant", "size" : 1, "artistid": 1},
+								{"name": "The Aggrolites", "size" : 1, "artistid": 1},
+								{"name": "Dear and the Headlights", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Bajofondo", "size" : 1, "artistid": 1},
+								{"name": "A Place to Bury Strangers", "size" : 1, "artistid": 1},
+								{"name": "Peanut Butter Wolf", "size" : 1, "artistid": 1},
+								{"name": "The Bug", "size" : 1, "artistid": 1},
+								{"name": "Warrior Queen", "size" : 1, "artistid": 1},
+								{"name": "Buraka Som Sistema", "size" : 1, "artistid": 1},
+								{"name": "Los Campesinos!", "size" : 1, "artistid": 1},
+								{"name": "People Under The Stairs", "size" : 1, "artistid": 1},
+								{"name": "Ryan Bingham", "size" : 1, "artistid": 1},
+								{"name": "El Gran Silencio", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "The Crystal Method", "size" : 1, "artistid": 1},
+								{"name": "The Presets", "size" : 1, "artistid": 1},
+								{"name": "Girl Talk", "size" : 1, "artistid": 1},
+								{"name": "Ghostland Observatory", "size" : 1, "artistid": 1},
+								{"name": "Crystal Castles", "size" : 1, "artistid": 1},
+								{"name": "The Ting Tings", "size" : 1, "artistid": 1},
+								{"name": "Felix da Housecat", "size" : 1, "artistid": 1},
+								{"name": "Steve Aoki", "size" : 1, "artistid": 1},
+								{"name": "Gui Boratto", "size" : 1, "artistid": 1},
+								{"name": "Switch", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 46,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "The Killers", "size" : 1, "artistid": 1},
+								{"name": "Amy Winehouse", "size" : 1, "artistid": 1},
+								{"name": "Thievery Corporation", "size" : 1, "artistid": 1},
+								{"name": "TV on the Radio", "size" : 1, "artistid": 1},
+								{"name": "Michael Franti & Spearhead", "size" : 1, "artistid": 1},
+								{"name": "Paolo Nutini", "size" : 1, "artistid": 1},
+								{"name": "Joss Stone", "size" : 1, "artistid": 1},
+								{"name": "Billy Talent", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Atmosphere", "size" : 1, "artistid": 1},
+								{"name": "Jenny Lewis", "size" : 1, "artistid": 1},
+								{"name": "Band of Horses", "size" : 1, "artistid": 1},
+								{"name": "Fleet Foxes", "size" : 1, "artistid": 1},
+								{"name": "Calexico", "size" : 1, "artistid": 1},
+								{"name": "Superchunk", "size" : 1, "artistid": 1},
+								{"name": "Drive-By Truckers", "size" : 1, "artistid": 1},
+								{"name": "Liars", "size" : 1, "artistid": 1},
+								{"name": "Cloud Cult", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Mastodon", "size" : 1, "artistid": 1},
+								{"name": "Turbonegro", "size" : 1, "artistid": 1},
+								{"name": "Electric Touch", "size" : 1, "artistid": 1},
+								{"name": "James Morrison", "size" : 1, "artistid": 1},
+								{"name": "Henry Rollins", "size" : 1, "artistid": 1},
+								{"name": "Dr. Dog", "size" : 1, "artistid": 1},
+								{"name": "thenewno2", "size" : 1, "artistid": 1},
+								{"name": "Ariel Pink's Haunted Graffiti", "size" : 1, "artistid": 1},
+								{"name": "P.O.S", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Gang Gang Dance", "size" : 1, "artistid": 1},
+								{"name": "Glass Candy", "size" : 1, "artistid": 1},
+								{"name": "Junior Boys", "size" : 1, "artistid": 1},
+								{"name": "Booker T.", "size" : 1, "artistid": 1},
+								{"name": "The DBT's", "size" : 1, "artistid": 1},
+								{"name": "Tinariwen", "size" : 1, "artistid": 1},
+								{"name": "Amanda Palmer", "size" : 1, "artistid": 1},
+								{"name": "Blitzen Trapper", "size" : 1, "artistid": 1},
+								{"name": "Bob Mould Band", "size" : 1, "artistid": 1},
+								{"name": "Ida Maria", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "MSTRKRFT", "size" : 1, "artistid": 1},
+								{"name": "The Chemical Brothers ", "size" : 1, "artistid": 1},
+								{"name": "Crookers", "size" : 1, "artistid": 1},
+								{"name": "TRV$DJAM", "size" : 1, "artistid": 1},
+								{"name": "The Bloody Beetroots", "size" : 1, "artistid": 1},
+								{"name": "Zane Lowe", "size" : 1, "artistid": 1},
+								{"name": "Surkin", "size" : 1, "artistid": 1},
+								{"name": "Para One ", "size" : 1, "artistid": 1},
+								{"name": "Drop the Lime", "size" : 1, "artistid": 1},
+								{"name": "Zizek Club", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 42,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "The Cure", "size" : 1, "artistid": 1},
+								{"name": "My Bloody Valentine", "size" : 1, "artistid": 1},
+								{"name": "Yeah Yeah Yeahs", "size" : 1, "artistid": 1},
+								{"name": "Peter Bjorn and John", "size" : 1, "artistid": 1},
+								{"name": "Lupe Fiasco", "size" : 1, "artistid": 1},
+								{"name": "Okkervil River", "size" : 1, "artistid": 1},
+								{"name": "The Knux", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "Roni Size Reprazent", "size" : 1, "artistid": 1},
+								{"name": "Public Enemy", "size" : 1, "artistid": 1},
+								{"name": "Paul Weller", "size" : 1, "artistid": 1},
+								{"name": "Antony and the Johnsons", "size" : 1, "artistid": 1},
+								{"name": "Lykke Li", "size" : 1, "artistid": 1},
+								{"name": "The Gaslight Anthem", "size" : 1, "artistid": 1},
+								{"name": "The Night Marchers", "size" : 1, "artistid": 1},
+								{"name": "Instituto Mexicano del Sonido", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Throbbing Gristle", "size" : 1, "artistid": 1},
+								{"name": "The Kills", "size" : 1, "artistid": 1},
+								{"name": "The Horrors", "size" : 1, "artistid": 1},
+								{"name": "X", "size" : 1, "artistid": 1},
+								{"name": "Murder City Devils", "size" : 1, "artistid": 1},
+								{"name": "The Brian Jonestown Massacre", "size" : 1, "artistid": 1},
+								{"name": "Fucked Up", "size" : 1, "artistid": 1},
+								{"name": "No Age", "size" : 1, "artistid": 1},
+								{"name": "Vivian Girls", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 7,
+							"children": [
+								{"name": "The Orb", "size" : 1, "artistid": 1},
+								{"name": "Devendra Banhart", "size" : 1, "artistid": 1},
+								{"name": "Clipse", "size" : 1, "artistid": 1},
+								{"name": "K'naan", "size" : 1, "artistid": 1},
+								{"name": "Sébastien Tellier", "size" : 1, "artistid": 1},
+								{"name": "Friendly Fires", "size" : 1, "artistid": 1},
+								{"name": "Themselves", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Étienne de Crécy", "size" : 1, "artistid": 1},
+								{"name": "Groove Armada (DJ Set)", "size" : 1, "artistid": 1},
+								{"name": "Christopher Lawrence", "size" : 1, "artistid": 1},
+								{"name": "Late of the Pier", "size" : 1, "artistid": 1},
+								{"name": "Plump DJs", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "M.A.N.D.Y.", "size" : 1, "artistid": 1},
+								{"name": "Busy P", "size" : 1, "artistid": 1},
+								{"name": "Shepard Fairey", "size" : 1, "artistid": 1},
+								{"name": "Supermayer", "size" : 1, "artistid": 1},
+								{"name": "Marshall Barnes", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2010",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"132 Acts",
+			"size":132,
+			"show":"yes",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 46,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "Jay-Z", "size" : 1, "artistid": 1},
+								{"name": "LCD Soundsystem", "size" : 1, "artistid": 1},
+								{"name": "Them Crooked Vultures", "size" : 1, "artistid": 1},
+								{"name": "The Specials", "size" : 1, "artistid": 1},
+								{"name": "Street Sweeper Social Club", "size" : 1, "artistid": 1},
+								{"name": "Calle 13", "size" : 1, "artistid": 1},
+								{"name": "Wale", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "Public Image Ltd.", "size" : 1, "artistid": 1},
+								{"name": "Vampire Weekend", "size" : 1, "artistid": 1},
+								{"name": "Echo and the Bunnymen", "size" : 1, "artistid": 1},
+								{"name": "Passion Pit", "size" : 1, "artistid": 1},
+								{"name": "She & Him", "size" : 1, "artistid": 1},
+								{"name": "The Avett Brothers", "size" : 1, "artistid": 1},
+								{"name": "Deer Tick", "size" : 1, "artistid": 1},
+								{"name": "Alana Grace", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Fever Ray", "size" : 1, "artistid": 1},
+								{"name": "Imogen Heap", "size" : 1, "artistid": 1},
+								{"name": "Grizzly Bear", "size" : 1, "artistid": 1},
+								{"name": "Lucero", "size" : 1, "artistid": 1},
+								{"name": "Ra Ra Riot", "size" : 1, "artistid": 1},
+								{"name": "Yeasayer", "size" : 1, "artistid": 1},
+								{"name": "As Tall as Lions", "size" : 1, "artistid": 1},
+								{"name": "Baroness", "size" : 1, "artistid": 1},
+								{"name": "Jets Overhead", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "The Whitest Boy Alive", "size" : 1, "artistid": 1},
+								{"name": "Céu", "size" : 1, "artistid": 1},
+								{"name": "Little Dragon", "size" : 1, "artistid": 1},
+								{"name": "La Roux", "size" : 1, "artistid": 1},
+								{"name": "Gil Scott-Heron", "size" : 1, "artistid": 1},
+								{"name": "The Dillinger Escape Plan", "size" : 1, "artistid": 1},
+								{"name": "Hockey", "size" : 1, "artistid": 1},
+								{"name": "Sleigh Bells", "size" : 1, "artistid": 1},
+								{"name": "Iglu & Hartly", "size" : 1, "artistid": 1},
+								{"name": "P.O.S", "size" : 1, "artistid": 1},
+								{"name": "Kate Miller-Heidke", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "deadmau5", "size" : 1, "artistid": 1},
+								{"name": "Benny Benassi", "size" : 1, "artistid": 1},
+								{"name": "Erol Alkan", "size" : 1, "artistid": 1},
+								{"name": "Pretty Lights", "size" : 1, "artistid": 1},
+								{"name": "Wolfgang Gartner", "size" : 1, "artistid": 1},
+								{"name": "Aeroplane", "size" : 1, "artistid": 1},
+								{"name": "Proxy", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "Steve Porter", "size" : 1, "artistid": 1},
+								{"name": "DJ Lance Rock", "size" : 1, "artistid": 1},
+								{"name": "Pablo Hassan", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 46,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Tiësto", "size" : 1, "artistid": 1},
+								{"name": "Muse", "size" : 1, "artistid": 1},
+								{"name": "Faith No More", "size" : 1, "artistid": 1},
+								{"name": "Coheed and Cambria", "size" : 1, "artistid": 1},
+								{"name": "Tokyo Police Club", "size" : 1, "artistid": 1},
+								{"name": "White Rabbits", "size" : 1, "artistid": 1},
+								{"name": "Old Crow Medicine Show", "size" : 1, "artistid": 1},
+								{"name": "Zoé", "size" : 1, "artistid": 1},
+								{"name": "Steel Train", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 8,
+							"children": [
+								{"name": "The Dead Weather", "size" : 1, "artistid": 1},
+								{"name": "MGMT", "size" : 1, "artistid": 1},
+								{"name": "Hot Chip", "size" : 1, "artistid": 1},
+								{"name": "The xx", "size" : 1, "artistid": 1},
+								{"name": "Edward Sharpe and the Magnetic Zeros", "size" : 1, "artistid": 1},
+								{"name": "The Temper Trap", "size" : 1, "artistid": 1},
+								{"name": "Porcupine Tree", "size" : 1, "artistid": 1},
+								{"name": "Rx Bandits", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Devo", "size" : 1, "artistid": 1},
+								{"name": "Les Claypool", "size" : 1, "artistid": 1},
+								{"name": "Major Lazer", "size" : 1, "artistid": 1},
+								{"name": "Aterciopelados", "size" : 1, "artistid": 1},
+								{"name": "Dirty Projectors", "size" : 1, "artistid": 1},
+								{"name": "Gossip", "size" : 1, "artistid": 1},
+								{"name": "Beach House", "size" : 1, "artistid": 1},
+								{"name": "Camera Obscura", "size" : 1, "artistid": 1},
+								{"name": "Shooter Jennings & Hierophant", "size" : 1, "artistid": 1},
+								{"name": "John Waters", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 9,
+							"children": [
+								{"name": "Sia", "size" : 1, "artistid": 1},
+								{"name": "Flying Lotus", "size" : 1, "artistid": 1},
+								{"name": "Corinne Bailey Rae", "size" : 1, "artistid": 1},
+								{"name": "The Raveonettes", "size" : 1, "artistid": 1},
+								{"name": "Band of Skulls", "size" : 1, "artistid": 1},
+								{"name": "Girls", "size" : 1, "artistid": 1},
+								{"name": "Portugal. The Man", "size" : 1, "artistid": 1},
+								{"name": "The Almighty Defenders", "size" : 1, "artistid": 1},
+								{"name": "Frank Turner", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "2manyDJs", "size" : 1, "artistid": 1},
+								{"name": "Die Antwoord", "size" : 1, "artistid": 1},
+								{"name": "Z-Trip", "size" : 1, "artistid": 1},
+								{"name": "David Guetta", "size" : 1, "artistid": 1},
+								{"name": "Kaskade", "size" : 1, "artistid": 1},
+								{"name": "Bassnectar", "size" : 1, "artistid": 1},
+								{"name": "Dirty South", "size" : 1, "artistid": 1},
+								{"name": "Craze & Klever", "size" : 1, "artistid": 1},
+								{"name": "Jason Bentley", "size" : 1, "artistid": 1},
+								{"name": "Sam XL", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 40,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "Gorillaz", "size" : 1, "artistid": 1},
+								{"name": "Pavement", "size" : 1, "artistid": 1},
+								{"name": "Spoon", "size" : 1, "artistid": 1},
+								{"name": "Yo La Tengo", "size" : 1, "artistid": 1},
+								{"name": "De La Soul", "size" : 1, "artistid": 1},
+								{"name": "B.o.B", "size" : 1, "artistid": 1},
+								{"name": "Babasonicos", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 7,
+							"children": [
+								{"name": "Thom Yorke", "size" : 1, "artistid": 1},
+								{"name": "Phoenix", "size" : 1, "artistid": 1},
+								{"name": "Jónsi", "size" : 1, "artistid": 1},
+								{"name": "Sunny Day Real Estate", "size" : 1, "artistid": 1},
+								{"name": "Deerhunter", "size" : 1, "artistid": 1},
+								{"name": "Owen Pallett", "size" : 1, "artistid": 1},
+								{"name": "The Middle East", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 9,
+							"children": [
+								{"name": "Yann Tiersen", "size" : 1, "artistid": 1},
+								{"name": "The Big Pink", "size" : 1, "artistid": 1},
+								{"name": "Miike Snow", "size" : 1, "artistid": 1},
+								{"name": "Julian Casablancas", "size" : 1, "artistid": 1},
+								{"name": "Matt & Kim", "size" : 1, "artistid": 1},
+								{"name": "Mutemath", "size" : 1, "artistid": 1},
+								{"name": "King Khan and the Shrines", "size" : 1, "artistid": 1},
+								{"name": "The Soft Pack", "size" : 1, "artistid": 1},
+								{"name": "One eskimO", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 7,
+							"children": [
+								{"name": "Little Boots", "size" : 1, "artistid": 1},
+								{"name": "Sly Stone", "size" : 1, "artistid": 1},
+								{"name": "Charlotte Gainsbourg", "size" : 1, "artistid": 1},
+								{"name": "Florence + the Machine", "size" : 1, "artistid": 1},
+								{"name": "Mayer Hawthorne and the County", "size" : 1, "artistid": 1},
+								{"name": "Local Natives", "size" : 1, "artistid": 1},
+								{"name": "Kevin Devine", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Plastikman", "size" : 1, "artistid": 1},
+								{"name": "Orbital", "size" : 1, "artistid": 1},
+								{"name": "Infected Mushroom", "size" : 1, "artistid": 1},
+								{"name": "Club 75: DJ Mehdi", "size" : 1, "artistid": 1},
+								{"name": "Cassius", "size" : 1, "artistid": 1},
+								{"name": "Busy P", "size" : 1, "artistid": 1},
+								{"name": "Xavier de Rosnay", "size" : 1, "artistid": 1},
+								{"name": "The Glitch Mob", "size" : 1, "artistid": 1},
+								{"name": "Rusko", "size" : 1, "artistid": 1},
+								{"name": "Paparazzi", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2011",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"190 Acts",
+			"size":190,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 61,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "The Chemical Brothers", "size" : 1, "artistid": 1},
+								{"name": "Kings of Leon", "size" : 1, "artistid": 1},
+								{"name": "The Black Keys", "size" : 1, "artistid": 1},
+								{"name": "Interpol", "size" : 1, "artistid": 1},
+								{"name": "Ms. Lauryn Hill", "size" : 1, "artistid": 1},
+								{"name": "Cee Lo Green", "size" : 1, "artistid": 1},
+								{"name": "Ozomatli", "size" : 1, "artistid": 1},
+								{"name": "Moving Units", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Flogging Molly", "size" : 1, "artistid": 1},
+								{"name": "Caifanes", "size" : 1, "artistid": 1},
+								{"name": "Crystal Castles", "size" : 1, "artistid": 1},
+								{"name": "Brandon Flowers", "size" : 1, "artistid": 1},
+								{"name": "Cold War Kids", "size" : 1, "artistid": 1},
+								{"name": "Tame Impala", "size" : 1, "artistid": 1},
+								{"name": "Warpaint", "size" : 1, "artistid": 1},
+								{"name": "Titus Andronicus", "size" : 1, "artistid": 1},
+								{"name": "Chk Chk Chk", "size" : 1, "artistid": 1},
+								{"name": "The Rural Alberta Advantage", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Gayngs", "size" : 1, "artistid": 1},
+								{"name": "Robyn", "size" : 1, "artistid": 1},
+								{"name": "The Aquabats", "size" : 1, "artistid": 1},
+								{"name": "Cut Copy", "size" : 1, "artistid": 1},
+								{"name": "Sleigh Bells", "size" : 1, "artistid": 1},
+								{"name": "Yacht", "size" : 1, "artistid": 1},
+								{"name": "The Pains of Being Pure at Heart", "size" : 1, "artistid": 1},
+								{"name": "The Drums", "size" : 1, "artistid": 1},
+								{"name": "Cold Cave", "size" : 1, "artistid": 1},
+								{"name": "Black Joe Lewis & the Honeybears", "size" : 1, "artistid": 1},
+								{"name": "Hurts", "size" : 1, "artistid": 1},
+								{"name": "Miguel", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "Scala & Kolacny Brothers", "size" : 1, "artistid": 1},
+								{"name": "Nosaj Thing", "size" : 1, "artistid": 1},
+								{"name": "Monarchy", "size" : 1, "artistid": 1},
+								{"name": "Marina and the Diamonds", "size" : 1, "artistid": 1},
+								{"name": "Kélé", "size" : 1, "artistid": 1},
+								{"name": "Ariel Pink's Haunted Graffiti", "size" : 1, "artistid": 1},
+								{"name": "The Morning Benders", "size" : 1, "artistid": 1},
+								{"name": "Omar Rodríguez-López", "size" : 1, "artistid": 1},
+								{"name": "Brandt Brauer Frick", "size" : 1, "artistid": 1},
+								{"name": "New Pants", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 12,
+							"children": [
+								{"name": "Boys Noize", "size" : 1, "artistid": 1},
+								{"name": "Sasha", "size" : 1, "artistid": 1},
+								{"name": "Magnetic Man", "size" : 1, "artistid": 1},
+								{"name": "Erick Morillo", "size" : 1, "artistid": 1},
+								{"name": "Afrojack", "size" : 1, "artistid": 1},
+								{"name": "A-Trak", "size" : 1, "artistid": 1},
+								{"name": "Odd Future Wolf Gang Kill Them All", "size" : 1, "artistid": 1},
+								{"name": "Skrillex", "size" : 1, "artistid": 1},
+								{"name": "Excision", "size" : 1, "artistid": 1},
+								{"name": "12th Planet", "size" : 1, "artistid": 1},
+								{"name": "Tokimonsta", "size" : 1, "artistid": 1},
+								{"name": "Alf Alpha", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Oasis Dome",
+							"size": 9,
+							"children": [
+								{"name": "Jakes", "size" : 1, "artistid": 1},
+								{"name": "Beardyman", "size" : 1, "artistid": 1},
+								{"name": "Breakage", "size" : 1, "artistid": 1},
+								{"name": "Professionals", "size" : 1, "artistid": 1},
+								{"name": "Mount Kimbie", "size" : 1, "artistid": 1},
+								{"name": "Kyle Hall", "size" : 1, "artistid": 1},
+								{"name": "Emicida", "size" : 1, "artistid": 1},
+								{"name": "Gabe Real", "size" : 1, "artistid": 1},
+								{"name": "Metaphase", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 67,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Arcade Fire", "size" : 1, "artistid": 1},
+								{"name": "Animal Collective", "size" : 1, "artistid": 1},
+								{"name": "Mumford & Sons", "size" : 1, "artistid": 1},
+								{"name": "Bright Eyes", "size" : 1, "artistid": 1},
+								{"name": "Broken Social Scene", "size" : 1, "artistid": 1},
+								{"name": "Erykah Badu", "size" : 1, "artistid": 1},
+								{"name": "Gogol Bordello", "size" : 1, "artistid": 1},
+								{"name": "Bomba Estéreo", "size" : 1, "artistid": 1},
+								{"name": "Trampled by Turtles", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Empire of the Sun", "size" : 1, "artistid": 1},
+								{"name": "Big Audio Dynamite", "size" : 1, "artistid": 1},
+								{"name": "The Kills", "size" : 1, "artistid": 1},
+								{"name": "The New Pornographers", "size" : 1, "artistid": 1},
+								{"name": "Cage the Elephant", "size" : 1, "artistid": 1},
+								{"name": "Delta Spirit", "size" : 1, "artistid": 1},
+								{"name": "Here We Go Magic", "size" : 1, "artistid": 1},
+								{"name": "Thao with the Get Down Stay Down", "size" : 1, "artistid": 1},
+								{"name": "Francis and the Lights", "size" : 1, "artistid": 1},
+								{"name": "The Love Language", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Scissor Sisters", "size" : 1, "artistid": 1},
+								{"name": "Suede", "size" : 1, "artistid": 1},
+								{"name": "The Swell Season", "size" : 1, "artistid": 1},
+								{"name": "One Day as a Lion", "size" : 1, "artistid": 1},
+								{"name": "Elbow", "size" : 1, "artistid": 1},
+								{"name": "Jenny and Johnny", "size" : 1, "artistid": 1},
+								{"name": "Two Door Cinema Club", "size" : 1, "artistid": 1},
+								{"name": "Foals", "size" : 1, "artistid": 1},
+								{"name": "Freelance Whales", "size" : 1, "artistid": 1},
+								{"name": "The Henry Clay People", "size" : 1, "artistid": 1},
+								{"name": "Mariachi El Bronx", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Daedelus", "size" : 1, "artistid": 1},
+								{"name": "Raphael Saadiq", "size" : 1, "artistid": 1},
+								{"name": "Wire", "size" : 1, "artistid": 1},
+								{"name": "Electric Touch", "size" : 1, "artistid": 1},
+								{"name": "Yelle", "size" : 1, "artistid": 1},
+								{"name": "Glasser", "size" : 1, "artistid": 1},
+								{"name": "The Radio Dept.", "size" : 1, "artistid": 1},
+								{"name": "The Tallest Man on Earth", "size" : 1, "artistid": 1},
+								{"name": "Cults", "size" : 1, "artistid": 1},
+								{"name": "The Joy Formidable", "size" : 1, "artistid": 1},
+								{"name": "EE", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 14,
+							"children": [
+								{"name": "Steve Angello", "size" : 1, "artistid": 1},
+								{"name": "Paul van Dyke", "size" : 1, "artistid": 1},
+								{"name": "Fedde le Grand", "size" : 1, "artistid": 1},
+								{"name": "Shpongle presents: The Shpongletron Experience", "size" : 1, "artistid": 1},
+								{"name": "Laidback Luke", "size" : 1, "artistid": 1},
+								{"name": "Chuckie", "size" : 1, "artistid": 1},
+								{"name": "Joachim Garraud", "size" : 1, "artistid": 1},
+								{"name": "Sander Kleinenberg", "size" : 1, "artistid": 1},
+								{"name": "Perry Farrell", "size" : 1, "artistid": 1},
+								{"name": "Etty Lau Farrell", "size" : 1, "artistid": 1},
+								{"name": "Chris Cox", "size" : 1, "artistid": 1},
+								{"name": "The Twelves", "size" : 1, "artistid": 1},
+								{"name": "Rye Rye", "size" : 1, "artistid": 1},
+								{"name": "DJ Heavygrinder", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Oasis Dome",
+							"size": 12,
+							"children": [
+								{"name": "Andy C", "size" : 1, "artistid": 1},
+								{"name": "GQ", "size" : 1, "artistid": 1},
+								{"name": "DJ Kentaro", "size" : 1, "artistid": 1},
+								{"name": "DJ Hype", "size" : 1, "artistid": 1},
+								{"name": "Mary Anne Hobbs", "size" : 1, "artistid": 1},
+								{"name": "Lil B", "size" : 1, "artistid": 1},
+								{"name": "SBTRKT", "size" : 1, "artistid": 1},
+								{"name": "Goth-Trad", "size" : 1, "artistid": 1},
+								{"name": "Take", "size" : 1, "artistid": 1},
+								{"name": "Don Letts", "size" : 1, "artistid": 1},
+								{"name": "Alf Alpha", "size" : 1, "artistid": 1},
+								{"name": "Ras G", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 62,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "Kanye West", "size" : 1, "artistid": 1},
+								{"name": "The Strokes", "size" : 1, "artistid": 1},
+								{"name": "Duran Duran", "size" : 1, "artistid": 1},
+								{"name": "Death from Above 1979", "size" : 1, "artistid": 1},
+								{"name": "Nas & Damian Marley", "size" : 1, "artistid": 1},
+								{"name": "Wiz Khalifa", "size" : 1, "artistid": 1},
+								{"name": "Jack's Mannequin", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "PJ Harvey", "size" : 1, "artistid": 1},
+								{"name": "Chromeo", "size" : 1, "artistid": 1},
+								{"name": "The National", "size" : 1, "artistid": 1},
+								{"name": "Best Coast", "size" : 1, "artistid": 1},
+								{"name": "Jimmy Eat World", "size" : 1, "artistid": 1},
+								{"name": "City and Colour", "size" : 1, "artistid": 1},
+								{"name": "Fun", "size" : 1, "artistid": 1},
+								{"name": "Menomena", "size" : 1, "artistid": 1},
+								{"name": "Gord Downie", "size" : 1, "artistid": 1},
+								{"name": "Good Old War", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "The Presets", "size" : 1, "artistid": 1},
+								{"name": "Leftfield", "size" : 1, "artistid": 1},
+								{"name": "Ratatat", "size" : 1, "artistid": 1},
+								{"name": "Trentemøller", "size" : 1, "artistid": 1},
+								{"name": "Fistful of Mercy", "size" : 1, "artistid": 1},
+								{"name": "Health", "size" : 1, "artistid": 1},
+								{"name": "CSS", "size" : 1, "artistid": 1},
+								{"name": "Men", "size" : 1, "artistid": 1},
+								{"name": "Twin Shadow", "size" : 1, "artistid": 1},
+								{"name": "Phosphorescent", "size" : 1, "artistid": 1},
+								{"name": "Ryan Leslie", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "She Wants Revenge", "size" : 1, "artistid": 1},
+								{"name": "Neon Trees", "size" : 1, "artistid": 1},
+								{"name": "Phantogram", "size" : 1, "artistid": 1},
+								{"name": "Lightning Bolt", "size" : 1, "artistid": 1},
+								{"name": "Foster the People", "size" : 1, "artistid": 1},
+								{"name": "Tinie Tempah", "size" : 1, "artistid": 1},
+								{"name": "Ellie Goulding", "size" : 1, "artistid": 1},
+								{"name": "Angus & Julia Stone", "size" : 1, "artistid": 1},
+								{"name": "Off!", "size" : 1, "artistid": 1},
+								{"name": "Delorean", "size" : 1, "artistid": 1},
+								{"name": "Plan B", "size" : 1, "artistid": 1},
+								{"name": "Eliza Doolittle", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Axwell", "size" : 1, "artistid": 1},
+								{"name": "Bloody Beetroots – Death Crew 77", "size" : 1, "artistid": 1},
+								{"name": "Chase & Status", "size" : 1, "artistid": 1},
+								{"name": "Duck Sauce", "size" : 1, "artistid": 1},
+								{"name": "Sven Väth", "size" : 1, "artistid": 1},
+								{"name": "Jack Beats", "size" : 1, "artistid": 1},
+								{"name": "Caspa", "size" : 1, "artistid": 1},
+								{"name": "Green Velvet", "size" : 1, "artistid": 1},
+								{"name": "Riva Starr", "size" : 1, "artistid": 1},
+								{"name": "WhiteNoize", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Oasis Dome",
+							"size": 12,
+							"children": [
+								{"name": "Terror Danjah", "size" : 1, "artistid": 1},
+								{"name": "Zed Bias", "size" : 1, "artistid": 1},
+								{"name": "Ramadanman", "size" : 1, "artistid": 1},
+								{"name": "Roska", "size" : 1, "artistid": 1},
+								{"name": "Kode9", "size" : 1, "artistid": 1},
+								{"name": "Joy Orbison", "size" : 1, "artistid": 1},
+								{"name": "High Contrast", "size" : 1, "artistid": 1},
+								{"name": "DJ Zinc", "size" : 1, "artistid": 1},
+								{"name": "Thunderball", "size" : 1, "artistid": 1},
+								{"name": "Tokimonsta", "size" : 1, "artistid": 1},
+								{"name": "Lorn", "size" : 1, "artistid": 1},
+								{"name": "Sam XL", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2012",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"159 Acts",
+			"size":159,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 51,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 10,
+							"children": [
+								{"name": "Swedish House Mafia", "size" : 1, "artistid": 1},
+								{"name": "The Black Keys", "size" : 1, "artistid": 1},
+								{"name": "Pulp", "size" : 1, "artistid": 1},
+								{"name": "Arctic Monkeys", "size" : 1, "artistid": 1},
+								{"name": "Jimmy Cliff", "size" : 1, "artistid": 1},
+								{"name": "Tim Armstrong", "size" : 1, "artistid": 1},
+								{"name": "James", "size" : 1, "artistid": 1},
+								{"name": "Kendrick Lamar", "size" : 1, "artistid": 1},
+								{"name": "Hello Seahorse!", "size" : 1, "artistid": 1},
+								{"name": "GabeReal", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Refused", "size" : 1, "artistid": 1},
+								{"name": "Explosions in the Sky", "size" : 1, "artistid": 1},
+								{"name": "Mazzy Star", "size" : 1, "artistid": 1},
+								{"name": "Madness", "size" : 1, "artistid": 1},
+								{"name": "Girls", "size" : 1, "artistid": 1},
+								{"name": "Neon Indian", "size" : 1, "artistid": 1},
+								{"name": "Yuck", "size" : 1, "artistid": 1},
+								{"name": "The Dear Hunter", "size" : 1, "artistid": 1},
+								{"name": "The Sheepdogs", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Amon Tobin", "size" : 1, "artistid": 1},
+								{"name": "M83", "size" : 1, "artistid": 1},
+								{"name": "The Rapture", "size" : 1, "artistid": 1},
+								{"name": "M. Ward", "size" : 1, "artistid": 1},
+								{"name": "Dawes", "size" : 1, "artistid": 1},
+								{"name": "Grouplove", "size" : 1, "artistid": 1},
+								{"name": "Ximena Sariñana", "size" : 1, "artistid": 1},
+								{"name": "Givers", "size" : 1, "artistid": 1},
+								{"name": "honeyhoney", "size" : 1, "artistid": 1},
+								{"name": "Wallpaper.", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Datsik", "size" : 1, "artistid": 1},
+								{"name": "Afrojack", "size" : 1, "artistid": 1},
+								{"name": "Alesso", "size" : 1, "artistid": 1},
+								{"name": "Madeon", "size" : 1, "artistid": 1},
+								{"name": "Feed Me", "size" : 1, "artistid": 1},
+								{"name": "SebastiAn", "size" : 1, "artistid": 1},
+								{"name": "Breakbot", "size" : 1, "artistid": 1},
+								{"name": "R3hab", "size" : 1, "artistid": 1},
+								{"name": "LA Riots", "size" : 1, "artistid": 1},
+								{"name": "Méa", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "The Horrors", "size" : 1, "artistid": 1},
+								{"name": "The Black Angels", "size" : 1, "artistid": 1},
+								{"name": "Atari Teenage Riot", "size" : 1, "artistid": 1},
+								{"name": "Frank Ocean", "size" : 1, "artistid": 1},
+								{"name": "WU LYF", "size" : 1, "artistid": 1},
+								{"name": "Death Grips", "size" : 1, "artistid": 1},
+								{"name": "Gary Clark", "size" : 1, "artistid": 1},
+								{"name": "Jr.", "size" : 1, "artistid": 1},
+								{"name": "EMA", "size" : 1, "artistid": 1},
+								{"name": "Other Lives", "size" : 1, "artistid": 1},
+								{"name": "Wolf Gang", "size" : 1, "artistid": 1},
+								{"name": "Abe Vigoda", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 52,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Radiohead", "size" : 1, "artistid": 1},
+								{"name": "Bon Iver", "size" : 1, "artistid": 1},
+								{"name": "The Shins", "size" : 1, "artistid": 1},
+								{"name": "Noel Gallagher's High Flying Birds", "size" : 1, "artistid": 1},
+								{"name": "Kaiser Chiefs", "size" : 1, "artistid": 1},
+								{"name": "Awolnation", "size" : 1, "artistid": 1},
+								{"name": "Childish Gambino", "size" : 1, "artistid": 1},
+								{"name": "We Are Augustines", "size" : 1, "artistid": 1},
+								{"name": "Juice", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Miike Snow", "size" : 1, "artistid": 1},
+								{"name": "Feist", "size" : 1, "artistid": 1},
+								{"name": "Jeff Mangum", "size" : 1, "artistid": 1},
+								{"name": "Andrew Bird", "size" : 1, "artistid": 1},
+								{"name": "Tune-Yards", "size" : 1, "artistid": 1},
+								{"name": "Grace Potter and the Nocturnals", "size" : 1, "artistid": 1},
+								{"name": "Destroyer", "size" : 1, "artistid": 1},
+								{"name": "We Were Promised Jetpacks", "size" : 1, "artistid": 1},
+								{"name": "Suedehead", "size" : 1, "artistid": 1},
+								{"name": "DJP", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Sub Focus", "size" : 1, "artistid": 1},
+								{"name": "Godspeed You! Black Emperor", "size" : 1, "artistid": 1},
+								{"name": "Kasabian", "size" : 1, "artistid": 1},
+								{"name": "Squeeze", "size" : 1, "artistid": 1},
+								{"name": "Manchester Orchestra", "size" : 1, "artistid": 1},
+								{"name": "The Head and the Heart", "size" : 1, "artistid": 1},
+								{"name": "The Big Pink", "size" : 1, "artistid": 1},
+								{"name": "Black Lips", "size" : 1, "artistid": 1},
+								{"name": "Dragonette", "size" : 1, "artistid": 1},
+								{"name": "Keep Shelly In Athens", "size" : 1, "artistid": 1},
+								{"name": "Tijuana Panthers", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Kaskade", "size" : 1, "artistid": 1},
+								{"name": "David Guetta", "size" : 1, "artistid": 1},
+								{"name": "Fedde le Grand", "size" : 1, "artistid": 1},
+								{"name": "Sebastian Ingrosso", "size" : 1, "artistid": 1},
+								{"name": "Martin Solveig", "size" : 1, "artistid": 1},
+								{"name": "Zeds Dead", "size" : 1, "artistid": 1},
+								{"name": "Jacques Lu Cont", "size" : 1, "artistid": 1},
+								{"name": "Borgore", "size" : 1, "artistid": 1},
+								{"name": "Mt Eden", "size" : 1, "artistid": 1},
+								{"name": "Destructo", "size" : 1, "artistid": 1},
+								{"name": "Pure Filth Sound", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "ASAP Rocky", "size" : 1, "artistid": 1},
+								{"name": "SBTRKT", "size" : 1, "artistid": 1},
+								{"name": "Flying Lotus", "size" : 1, "artistid": 1},
+								{"name": "St. Vincent", "size" : 1, "artistid": 1},
+								{"name": "Laura Marling", "size" : 1, "artistid": 1},
+								{"name": "Buzzcocks", "size" : 1, "artistid": 1},
+								{"name": "Firehose", "size" : 1, "artistid": 1},
+								{"name": "Azealia Banks", "size" : 1, "artistid": 1},
+								{"name": "The Vaccines", "size" : 1, "artistid": 1},
+								{"name": "Spector", "size" : 1, "artistid": 1},
+								{"name": "Kiss Kiss Bang Bang", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 56,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 15,
+							"children": [
+								{"name": "Dr. Dre", "size" : 1, "artistid": 1},
+								{"name": "Snoop Dogg", "size" : 1, "artistid": 1},
+								{"name": "Eminem", "size" : 1, "artistid": 1},
+								{"name": "50 Cent", "size" : 1, "artistid": 1},
+								{"name": "Wiz Khalifa", "size" : 1, "artistid": 1},
+								{"name": "Kendrick Lamar", "size" : 1, "artistid": 1},
+								{"name": "Kurupt", "size" : 1, "artistid": 1},
+								{"name": "Warren G", "size" : 1, "artistid": 1},
+								{"name": "At the Drive-In", "size" : 1, "artistid": 1},
+								{"name": "Justice", "size" : 1, "artistid": 1},
+								{"name": "The Hives", "size" : 1, "artistid": 1},
+								{"name": "Fitz and The Tantrums", "size" : 1, "artistid": 1},
+								{"name": "Santigold", "size" : 1, "artistid": 1},
+								{"name": "Band of Skulls", "size" : 1, "artistid": 1},
+								{"name": "Mantastique", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Florence and the Machine", "size" : 1, "artistid": 1},
+								{"name": "Girl Talk", "size" : 1, "artistid": 1},
+								{"name": "The Weeknd", "size" : 1, "artistid": 1},
+								{"name": "Wild Flag", "size" : 1, "artistid": 1},
+								{"name": "The Growlers", "size" : 1, "artistid": 1},
+								{"name": "Seun Kuti & Egypt 80", "size" : 1, "artistid": 1},
+								{"name": "Metronomy", "size" : 1, "artistid": 1},
+								{"name": "Lissie", "size" : 1, "artistid": 1},
+								{"name": "Sleeper Agent", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Modeselektor", "size" : 1, "artistid": 1},
+								{"name": "Thom Yorke", "size" : 1, "artistid": 1},
+								{"name": "Beirut", "size" : 1, "artistid": 1},
+								{"name": "Gotye", "size" : 1, "artistid": 1},
+								{"name": "AraabMuzik", "size" : 1, "artistid": 1},
+								{"name": "Beats Antique", "size" : 1, "artistid": 1},
+								{"name": "Wild Beasts", "size" : 1, "artistid": 1},
+								{"name": "First Aid Kit", "size" : 1, "artistid": 1},
+								{"name": "Oberhofer", "size" : 1, "artistid": 1},
+								{"name": "Gardens & Villa", "size" : 1, "artistid": 1},
+								{"name": "Tyler Uppercut", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Avicii", "size" : 1, "artistid": 1},
+								{"name": "Calvin Harris", "size" : 1, "artistid": 1},
+								{"name": "Nero", "size" : 1, "artistid": 1},
+								{"name": "Dada Life", "size" : 1, "artistid": 1},
+								{"name": "Porter Robinson", "size" : 1, "artistid": 1},
+								{"name": "Flux Pavilion", "size" : 1, "artistid": 1},
+								{"name": "Doctor P", "size" : 1, "artistid": 1},
+								{"name": "Zedd", "size" : 1, "artistid": 1},
+								{"name": "Noisia", "size" : 1, "artistid": 1},
+								{"name": "Morgan Page", "size" : 1, "artistid": 1},
+								{"name": "Jimbo Jenkins", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 10,
+							"children": [
+								{"name": "DJ Shadow", "size" : 1, "artistid": 1},
+								{"name": "Company Flow", "size" : 1, "artistid": 1},
+								{"name": "The Airplane Boys", "size" : 1, "artistid": 1},
+								{"name": "The Gaslamp Killer", "size" : 1, "artistid": 1},
+								{"name": "Thundercat", "size" : 1, "artistid": 1},
+								{"name": "Real Estate", "size" : 1, "artistid": 1},
+								{"name": "Greg Ginn and the Royal We", "size" : 1, "artistid": 1},
+								{"name": "Le Butcherettes", "size" : 1, "artistid": 1},
+								{"name": "Housse de Racket", "size" : 1, "artistid": 1},
+								{"name": "Alf Alpha", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2013",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"197 Acts",
+			"size":197,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 68,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 10,
+							"children": [
+								{"name": "The Stone Roses", "size" : 1, "artistid": 1},
+								{"name": "Blur", "size" : 1, "artistid": 1},
+								{"name": "Yeah Yeah Yeahs", "size" : 1, "artistid": 1},
+								{"name": "Modest Mouse", "size" : 1, "artistid": 1},
+								{"name": "Passion Pit", "size" : 1, "artistid": 1},
+								{"name": "Metric", "size" : 1, "artistid": 1},
+								{"name": "Stars", "size" : 1, "artistid": 1},
+								{"name": "Dâm-Funk", "size" : 1, "artistid": 1},
+								{"name": "Tokyo Ska Paradise Orchestra", "size" : 1, "artistid": 1},
+								{"name": "Skinny Lister", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 13,
+							"children": [
+								{"name": "Tegan and Sara", "size" : 1, "artistid": 1},
+								{"name": "Jurassic 5", "size" : 1, "artistid": 1},
+								{"name": "Band of Horses", "size" : 1, "artistid": 1},
+								{"name": "Beach House", "size" : 1, "artistid": 1},
+								{"name": "Local Natives", "size" : 1, "artistid": 1},
+								{"name": "Of Monsters and Men", "size" : 1, "artistid": 1},
+								{"name": "Divine Fits", "size" : 1, "artistid": 1},
+								{"name": "Aesop Rock", "size" : 1, "artistid": 1},
+								{"name": "Beardyman", "size" : 1, "artistid": 1},
+								{"name": "The Neighborhood", "size" : 1, "artistid": 1},
+								{"name": "White Arrows", "size" : 1, "artistid": 1},
+								{"name": "Falcons", "size" : 1, "artistid": 1},
+								{"name": "Mr. Carmack", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "How to Destroy Angels", "size" : 1, "artistid": 1},
+								{"name": "Grinderman", "size" : 1, "artistid": 1},
+								{"name": "Infected Mushroom", "size" : 1, "artistid": 1},
+								{"name": "Sparks", "size" : 1, "artistid": 1},
+								{"name": "Palma Violets", "size" : 1, "artistid": 1},
+								{"name": "Alt-J", "size" : 1, "artistid": 1},
+								{"name": "Johnny Marr", "size" : 1, "artistid": 1},
+								{"name": "Jake Bugg", "size" : 1, "artistid": 1},
+								{"name": "Youth Lagoon", "size" : 1, "artistid": 1},
+								{"name": "Lord Huron", "size" : 1, "artistid": 1},
+								{"name": "You Me & Us", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 13,
+							"children": [
+								{"name": "Bassnectar", "size" : 1, "artistid": 1},
+								{"name": "Modestep", "size" : 1, "artistid": 1},
+								{"name": "Wolfgang Gartner", "size" : 1, "artistid": 1},
+								{"name": "Dog Blood", "size" : 1, "artistid": 1},
+								{"name": "Nicky Romero", "size" : 1, "artistid": 1},
+								{"name": "Tommy Trash", "size" : 1, "artistid": 1},
+								{"name": "Thomas Gold", "size" : 1, "artistid": 1},
+								{"name": "Dillon Francis", "size" : 1, "artistid": 1},
+								{"name": "C2C", "size" : 1, "artistid": 1},
+								{"name": "Sam XL Pure Filth Sound", "size" : 1, "artistid": 1},
+								{"name": "DJ Geo", "size" : 1, "artistid": 1},
+								{"name": "Dangerous Stranger", "size" : 1, "artistid": 1},
+								{"name": "DJP", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 13,
+							"children": [
+								{"name": "Earl Sweatshirt", "size" : 1, "artistid": 1},
+								{"name": "Foals", "size" : 1, "artistid": 1},
+								{"name": "Purity Ring", "size" : 1, "artistid": 1},
+								{"name": "TNGHT", "size" : 1, "artistid": 1},
+								{"name": "Jello Biafra and the Guantanamo School of Medicine", "size" : 1, "artistid": 1},
+								{"name": "Lee Perry", "size" : 1, "artistid": 1},
+								{"name": "Japandroids", "size" : 1, "artistid": 1},
+								{"name": "James McCartney", "size" : 1, "artistid": 1},
+								{"name": "Poliça", "size" : 1, "artistid": 1},
+								{"name": "The Shouting Matches", "size" : 1, "artistid": 1},
+								{"name": "Deathfix", "size" : 1, "artistid": 1},
+								{"name": "IO Echo", "size" : 1, "artistid": 1},
+								{"name": "Moustache", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 8,
+							"children": [
+								{"name": "Luciano", "size" : 1, "artistid": 1},
+								{"name": "Seth Troxler", "size" : 1, "artistid": 1},
+								{"name": "DJ Harvey", "size" : 1, "artistid": 1},
+								{"name": "Four Tet", "size" : 1, "artistid": 1},
+								{"name": "Pete Tong", "size" : 1, "artistid": 1},
+								{"name": "Raymond Roker", "size" : 1, "artistid": 1},
+								{"name": "Mario Cotto", "size" : 1, "artistid": 1},
+								{"name": "Sece", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 66,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 11,
+							"children": [
+								{"name": "Phoenix", "size" : 1, "artistid": 1},
+								{"name": "The xx", "size" : 1, "artistid": 1},
+								{"name": "The Postal Service", "size" : 1, "artistid": 1},
+								{"name": "Hot Chip", "size" : 1, "artistid": 1},
+								{"name": "Violent Femmes", "size" : 1, "artistid": 1},
+								{"name": "Café Tacvba", "size" : 1, "artistid": 1},
+								{"name": "Dropkick Murphys", "size" : 1, "artistid": 1},
+								{"name": "Biffy Clyro", "size" : 1, "artistid": 1},
+								{"name": "Theophilus London", "size" : 1, "artistid": 1},
+								{"name": "Vintage Trouble", "size" : 1, "artistid": 1},
+								{"name": "DJ Gabe Real", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 13,
+							"children": [
+								{"name": "Sigur Rós", "size" : 1, "artistid": 1},
+								{"name": "Two Door Cinema Club", "size" : 1, "artistid": 1},
+								{"name": "Descendents", "size" : 1, "artistid": 1},
+								{"name": "Yeasayer", "size" : 1, "artistid": 1},
+								{"name": "Portugal. The Man", "size" : 1, "artistid": 1},
+								{"name": "Puscifer", "size" : 1, "artistid": 1},
+								{"name": "Ben Howard", "size" : 1, "artistid": 1},
+								{"name": "Danny Brown", "size" : 1, "artistid": 1},
+								{"name": "Action Bronson", "size" : 1, "artistid": 1},
+								{"name": "Trash Talk", "size" : 1, "artistid": 1},
+								{"name": "Reignwolf", "size" : 1, "artistid": 1},
+								{"name": "Abjo", "size" : 1, "artistid": 1},
+								{"name": "Insightful", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "New Order", "size" : 1, "artistid": 1},
+								{"name": "Franz Ferdinand", "size" : 1, "artistid": 1},
+								{"name": "Simian Mobile Disco", "size" : 1, "artistid": 1},
+								{"name": "Grizzly Bear", "size" : 1, "artistid": 1},
+								{"name": "Major Lazer", "size" : 1, "artistid": 1},
+								{"name": "Bat for Lashes", "size" : 1, "artistid": 1},
+								{"name": "2 Chainz", "size" : 1, "artistid": 1},
+								{"name": "Savages", "size" : 1, "artistid": 1},
+								{"name": "Wild Nothing", "size" : 1, "artistid": 1},
+								{"name": "Mona", "size" : 1, "artistid": 1},
+								{"name": "The Wombats", "size" : 1, "artistid": 1},
+								{"name": "Kids These Days", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Knife Party", "size" : 1, "artistid": 1},
+								{"name": "Moby", "size" : 1, "artistid": 1},
+								{"name": "Benny Benassi", "size" : 1, "artistid": 1},
+								{"name": "Fedde Le Grand", "size" : 1, "artistid": 1},
+								{"name": "Bingo Players", "size" : 1, "artistid": 1},
+								{"name": "Kill the Noise", "size" : 1, "artistid": 1},
+								{"name": "Baauer", "size" : 1, "artistid": 1},
+								{"name": "Birdy Nam Nam", "size" : 1, "artistid": 1},
+								{"name": "3Ball MTY", "size" : 1, "artistid": 1},
+								{"name": "Been Trill", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "Booka Shade", "size" : 1, "artistid": 1},
+								{"name": "Janelle Monáe", "size" : 1, "artistid": 1},
+								{"name": "Pusha T", "size" : 1, "artistid": 1},
+								{"name": "Spiritualized", "size" : 1, "artistid": 1},
+								{"name": "The Make-Up", "size" : 1, "artistid": 1},
+								{"name": "El-P", "size" : 1, "artistid": 1},
+								{"name": "The Selecter", "size" : 1, "artistid": 1},
+								{"name": "Allen Stone", "size" : 1, "artistid": 1},
+								{"name": "The Evens", "size" : 1, "artistid": 1},
+								{"name": "Shovels & Rope", "size" : 1, "artistid": 1},
+								{"name": "Guards", "size" : 1, "artistid": 1},
+								{"name": "The Colouris", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 8,
+							"children": [
+								{"name": "Richie Hawtin", "size" : 1, "artistid": 1},
+								{"name": "Cassy", "size" : 1, "artistid": 1},
+								{"name": "Julio Bashmore", "size" : 1, "artistid": 1},
+								{"name": "Jason Bentley", "size" : 1, "artistid": 1},
+								{"name": "The 2 Bears", "size" : 1, "artistid": 1},
+								{"name": "Zane Lowe", "size" : 1, "artistid": 1},
+								{"name": "Huoratron", "size" : 1, "artistid": 1},
+								{"name": "Lauren Lane", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 63,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 10,
+							"children": [
+								{"name": "Red Hot Chili Peppers", "size" : 1, "artistid": 1},
+								{"name": "Nick Cave and the Bad Seeds", "size" : 1, "artistid": 1},
+								{"name": "Vampire Weekend", "size" : 1, "artistid": 1},
+								{"name": "Social Distortion", "size" : 1, "artistid": 1},
+								{"name": "The Lumineers", "size" : 1, "artistid": 1},
+								{"name": "The Gaslight Anthem", "size" : 1, "artistid": 1},
+								{"name": "The Airborne Toxic Event", "size" : 1, "artistid": 1},
+								{"name": "Ghost B.C.", "size" : 1, "artistid": 1},
+								{"name": "Slipping Into Darkness", "size" : 1, "artistid": 1},
+								{"name": "Mantastique", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 11,
+							"children": [
+								{"name": "Wu-Tang Clan", "size" : 1, "artistid": 1},
+								{"name": "Pretty Lights", "size" : 1, "artistid": 1},
+								{"name": "Tame Impala", "size" : 1, "artistid": 1},
+								{"name": "Dinosaur Jr.", "size" : 1, "artistid": 1},
+								{"name": "Kurt Vile & the Violators", "size" : 1, "artistid": 1},
+								{"name": "JEFF the Brotherhood", "size" : 1, "artistid": 1},
+								{"name": "Smith Westerns", "size" : 1, "artistid": 1},
+								{"name": "Raider Klan", "size" : 1, "artistid": 1},
+								{"name": "Wild Belle", "size" : 1, "artistid": 1},
+								{"name": "Sango", "size" : 1, "artistid": 1},
+								{"name": "Esta", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Dead Can Dance", "size" : 1, "artistid": 1},
+								{"name": "Roni Size & Dynamite MC", "size" : 1, "artistid": 1},
+								{"name": "The Faint", "size" : 1, "artistid": 1},
+								{"name": "La Roux", "size" : 1, "artistid": 1},
+								{"name": "James Blake", "size" : 1, "artistid": 1},
+								{"name": "Alex Clare", "size" : 1, "artistid": 1},
+								{"name": "Jessie Ware", "size" : 1, "artistid": 1},
+								{"name": "DIIV", "size" : 1, "artistid": 1},
+								{"name": "Cloud Nothings", "size" : 1, "artistid": 1},
+								{"name": "Robert DeLong", "size" : 1, "artistid": 1},
+								{"name": "Deap Vally", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Eric Prydz", "size" : 1, "artistid": 1},
+								{"name": "Excision presents The Executioner", "size" : 1, "artistid": 1},
+								{"name": "Hardwell", "size" : 1, "artistid": 1},
+								{"name": "Paul Oakenfold", "size" : 1, "artistid": 1},
+								{"name": "Paul Kalkbrenner", "size" : 1, "artistid": 1},
+								{"name": "Mimosa", "size" : 1, "artistid": 1},
+								{"name": "Dirtyphonics", "size" : 1, "artistid": 1},
+								{"name": "Danny Avila", "size" : 1, "artistid": 1},
+								{"name": "Mord Fustang", "size" : 1, "artistid": 1},
+								{"name": "Adrian Lux", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 13,
+							"children": [
+								{"name": "Disclosure", "size" : 1, "artistid": 1},
+								{"name": "Parov Stelar Band", "size" : 1, "artistid": 1},
+								{"name": "Dub FX", "size" : 1, "artistid": 1},
+								{"name": "OMD", "size" : 1, "artistid": 1},
+								{"name": "Father John Misty", "size" : 1, "artistid": 1},
+								{"name": "Rodriguez", "size" : 1, "artistid": 1},
+								{"name": "Tanlines", "size" : 1, "artistid": 1},
+								{"name": "Grimes", "size" : 1, "artistid": 1},
+								{"name": "Thee Oh Sees", "size" : 1, "artistid": 1},
+								{"name": "The Three O'Clock", "size" : 1, "artistid": 1},
+								{"name": "Hanni El Khatib", "size" : 1, "artistid": 1},
+								{"name": "Little Green Cars", "size" : 1, "artistid": 1},
+								{"name": "Jimbo Jenkins", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 8,
+							"children": [
+								{"name": "Jamie Jones", "size" : 1, "artistid": 1},
+								{"name": "Loco Dice", "size" : 1, "artistid": 1},
+								{"name": "Maya Jane Coles", "size" : 1, "artistid": 1},
+								{"name": "Joris Voorn", "size" : 1, "artistid": 1},
+								{"name": "Jamie xx", "size" : 1, "artistid": 1},
+								{"name": "Ladies Night", "size" : 1, "artistid": 1},
+								{"name": "JDH and DAVE P", "size" : 1, "artistid": 1},
+								{"name": "Droog", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2014",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"186 Acts",
+			"size":186,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 65,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "OutKast", "size" : 1, "artistid": 1},
+								{"name": "Girl Talk", "size" : 1, "artistid": 1},
+								{"name": "Chromeo", "size" : 1, "artistid": 1},
+								{"name": "Ellie Goulding", "size" : 1, "artistid": 1},
+								{"name": "AFI", "size" : 1, "artistid": 1},
+								{"name": "Grouplove", "size" : 1, "artistid": 1},
+								{"name": "MS MR", "size" : 1, "artistid": 1},
+								{"name": "Anthony Green", "size" : 1, "artistid": 1},
+								{"name": "The Preatures", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 11,
+							"children": [
+								{"name": "The Knife", "size" : 1, "artistid": 1},
+								{"name": "Chance the Rapper", "size" : 1, "artistid": 1},
+								{"name": "The Replacements", "size" : 1, "artistid": 1},
+								{"name": "Broken Bells", "size" : 1, "artistid": 1},
+								{"name": "Neko Case", "size" : 1, "artistid": 1},
+								{"name": "Haim", "size" : 1, "artistid": 1},
+								{"name": "A$AP Ferg", "size" : 1, "artistid": 1},
+								{"name": "Dum Dum Girls", "size" : 1, "artistid": 1},
+								{"name": "GOAT", "size" : 1, "artistid": 1},
+								{"name": "Flatbush Zombies", "size" : 1, "artistid": 1},
+								{"name": "The Bots", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 13,
+							"children": [
+								{"name": "†††", "size" : 1, "artistid": 1},
+								{"name": "The Cult", "size" : 1, "artistid": 1},
+								{"name": "Bryan Ferry", "size" : 1, "artistid": 1},
+								{"name": "Bonobo", "size" : 1, "artistid": 1},
+								{"name": "The Afghan Whigs", "size" : 1, "artistid": 1},
+								{"name": "Bastille", "size" : 1, "artistid": 1},
+								{"name": "Aloe Blacc", "size" : 1, "artistid": 1},
+								{"name": "Title Fight", "size" : 1, "artistid": 1},
+								{"name": "ZZ Ward", "size" : 1, "artistid": 1},
+								{"name": "Waxahatchee", "size" : 1, "artistid": 1},
+								{"name": "Tom Odell", "size" : 1, "artistid": 1},
+								{"name": "Co.Fee", "size" : 1, "artistid": 1},
+								{"name": "KAB", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Michael Brun", "size" : 1, "artistid": 1},
+								{"name": "Zedd", "size" : 1, "artistid": 1},
+								{"name": "Martin Garrix", "size" : 1, "artistid": 1},
+								{"name": "The Glitch Mob", "size" : 1, "artistid": 1},
+								{"name": "Carnage", "size" : 1, "artistid": 1},
+								{"name": "Gareth Emery", "size" : 1, "artistid": 1},
+								{"name": "Deorro", "size" : 1, "artistid": 1},
+								{"name": "DJ Falcon", "size" : 1, "artistid": 1},
+								{"name": "Mako", "size" : 1, "artistid": 1},
+								{"name": "DJP", "size" : 1, "artistid": 1},
+								{"name": "Boubakiki", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Anti-Flag", "size" : 1, "artistid": 1},
+								{"name": "Caravan Palace", "size" : 1, "artistid": 1},
+								{"name": "Flume", "size" : 1, "artistid": 1},
+								{"name": "Woodkid", "size" : 1, "artistid": 1},
+								{"name": "Shlohmo", "size" : 1, "artistid": 1},
+								{"name": "Kate Nash", "size" : 1, "artistid": 1},
+								{"name": "The Jon Spencer Blues Explosion", "size" : 1, "artistid": 1},
+								{"name": "Jagwar Ma", "size" : 1, "artistid": 1},
+								{"name": "Austra", "size" : 1, "artistid": 1},
+								{"name": "Wye Oak", "size" : 1, "artistid": 1},
+								{"name": "Gabba Gabba Heys", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 10,
+							"children": [
+								{"name": "Dixon", "size" : 1, "artistid": 1},
+								{"name": "Hot Since 82", "size" : 1, "artistid": 1},
+								{"name": "Solomun", "size" : 1, "artistid": 1},
+								{"name": "Nicolas Jaar", "size" : 1, "artistid": 1},
+								{"name": "Duke Dumont", "size" : 1, "artistid": 1},
+								{"name": "Nina Kraviz", "size" : 1, "artistid": 1},
+								{"name": "Damian Lazarus", "size" : 1, "artistid": 1},
+								{"name": "Davide Squillace", "size" : 1, "artistid": 1},
+								{"name": "Lee Wells", "size" : 1, "artistid": 1},
+								{"name": "Alf Alpha", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 64,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Muse", "size" : 1, "artistid": 1},
+								{"name": "Queens of the Stone Age", "size" : 1, "artistid": 1},
+								{"name": "Foster the People", "size" : 1, "artistid": 1},
+								{"name": "MGMT", "size" : 1, "artistid": 1},
+								{"name": "Kid Cudi", "size" : 1, "artistid": 1},
+								{"name": "City and Colour", "size" : 1, "artistid": 1},
+								{"name": "Cage the Elephant", "size" : 1, "artistid": 1},
+								{"name": "Graveyard", "size" : 1, "artistid": 1},
+								{"name": "Unlocking the Truth", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 11,
+							"children": [
+								{"name": "Nas", "size" : 1, "artistid": 1},
+								{"name": "Pharrell Williams", "size" : 1, "artistid": 1},
+								{"name": "Sleigh Bells", "size" : 1, "artistid": 1},
+								{"name": "Lorde", "size" : 1, "artistid": 1},
+								{"name": "Capital Cities", "size" : 1, "artistid": 1},
+								{"name": "The Head and the Heart", "size" : 1, "artistid": 1},
+								{"name": "Chvrches", "size" : 1, "artistid": 1},
+								{"name": "Ty Segall", "size" : 1, "artistid": 1},
+								{"name": "Foxygen", "size" : 1, "artistid": 1},
+								{"name": "Syd Arthur", "size" : 1, "artistid": 1},
+								{"name": "Saints Of Valory", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Pet Shop Boys", "size" : 1, "artistid": 1},
+								{"name": "Mogwai", "size" : 1, "artistid": 1},
+								{"name": "Pixies", "size" : 1, "artistid": 1},
+								{"name": "RL Grime", "size" : 1, "artistid": 1},
+								{"name": "Warpaint", "size" : 1, "artistid": 1},
+								{"name": "Julian Casablancas", "size" : 1, "artistid": 1},
+								{"name": "Bombay Bicycle Club", "size" : 1, "artistid": 1},
+								{"name": "Temples", "size" : 1, "artistid": 1},
+								{"name": "Drowners", "size" : 1, "artistid": 1},
+								{"name": "Bear Hands", "size" : 1, "artistid": 1},
+								{"name": "Young & Sick", "size" : 1, "artistid": 1},
+								{"name": "WoodysProduce", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Skrillex", "size" : 1, "artistid": 1},
+								{"name": "Empire of the Sun", "size" : 1, "artistid": 1},
+								{"name": "Fatboy Slim", "size" : 1, "artistid": 1},
+								{"name": "Dillon Francis", "size" : 1, "artistid": 1},
+								{"name": "GTA", "size" : 1, "artistid": 1},
+								{"name": "Carbon Airways", "size" : 1, "artistid": 1},
+								{"name": "TJR", "size" : 1, "artistid": 1},
+								{"name": "Headhunterz", "size" : 1, "artistid": 1},
+								{"name": "MAKJ", "size" : 1, "artistid": 1},
+								{"name": "UZ", "size" : 1, "artistid": 1},
+								{"name": "Revell", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "The Dismemberment Plan", "size" : 1, "artistid": 1},
+								{"name": "DARKSIDE", "size" : 1, "artistid": 1},
+								{"name": "Galantis", "size" : 1, "artistid": 1},
+								{"name": "Solange", "size" : 1, "artistid": 1},
+								{"name": "Future Islands", "size" : 1, "artistid": 1},
+								{"name": "Washed Out", "size" : 1, "artistid": 1},
+								{"name": "Holy Ghost!", "size" : 1, "artistid": 1},
+								{"name": "Banks", "size" : 1, "artistid": 1},
+								{"name": "White Lies", "size" : 1, "artistid": 1},
+								{"name": "The Internet", "size" : 1, "artistid": 1},
+								{"name": "Laura Mvula", "size" : 1, "artistid": 1},
+								{"name": "AFTA-1", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Tiga", "size" : 1, "artistid": 1},
+								{"name": "The Magician", "size" : 1, "artistid": 1},
+								{"name": "Nicole Moudaber", "size" : 1, "artistid": 1},
+								{"name": "Cajmere", "size" : 1, "artistid": 1},
+								{"name": "Guy Gerber", "size" : 1, "artistid": 1},
+								{"name": "Aeroplane", "size" : 1, "artistid": 1},
+								{"name": "Sander Kleinenberg", "size" : 1, "artistid": 1},
+								{"name": "Ricoshëi", "size" : 1, "artistid": 1},
+								{"name": "Lesto", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 57,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 7,
+							"children": [
+								{"name": "Arcade Fire", "size" : 1, "artistid": 1},
+								{"name": "Beck", "size" : 1, "artistid": 1},
+								{"name": "Calvin Harris", "size" : 1, "artistid": 1},
+								{"name": "The Naked and Famous", "size" : 1, "artistid": 1},
+								{"name": "Zoé", "size" : 1, "artistid": 1},
+								{"name": "Fishbone", "size" : 1, "artistid": 1},
+								{"name": "Trombone Shorty & Orleans Avenue", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Disclosure", "size" : 1, "artistid": 1},
+								{"name": "Lana del Rey", "size" : 1, "artistid": 1},
+								{"name": "Neutral Milk Hotel", "size" : 1, "artistid": 1},
+								{"name": "Blood Orange", "size" : 1, "artistid": 1},
+								{"name": "The 1975", "size" : 1, "artistid": 1},
+								{"name": "STRFKR", "size" : 1, "artistid": 1},
+								{"name": "Surfer Blood", "size" : 1, "artistid": 1},
+								{"name": "J Roddy Walston and the Business", "size" : 1, "artistid": 1},
+								{"name": "Ratking", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Netsky", "size" : 1, "artistid": 1},
+								{"name": "Motörhead", "size" : 1, "artistid": 1},
+								{"name": "Daughter", "size" : 1, "artistid": 1},
+								{"name": "Little Dragon", "size" : 1, "artistid": 1},
+								{"name": "Flosstradamus", "size" : 1, "artistid": 1},
+								{"name": "Rudimental", "size" : 1, "artistid": 1},
+								{"name": "Classixx", "size" : 1, "artistid": 1},
+								{"name": "Poolside", "size" : 1, "artistid": 1},
+								{"name": "Preservation Hall Jazz Band", "size" : 1, "artistid": 1},
+								{"name": "James Vincent McMorrow", "size" : 1, "artistid": 1},
+								{"name": "Machin'", "size" : 1, "artistid": 1},
+								{"name": "CIVX", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 9,
+							"children": [
+								{"name": "Duck Sauce", "size" : 1, "artistid": 1},
+								{"name": "Adventure Club", "size" : 1, "artistid": 1},
+								{"name": "Big Gigantic", "size" : 1, "artistid": 1},
+								{"name": "Alesso", "size" : 1, "artistid": 1},
+								{"name": "Krewella", "size" : 1, "artistid": 1},
+								{"name": "Showtek", "size" : 1, "artistid": 1},
+								{"name": "Flight Facilities", "size" : 1, "artistid": 1},
+								{"name": "Anna Lunoe", "size" : 1, "artistid": 1},
+								{"name": "John Beaver", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Lucent Dossier Experience", "size" : 1, "artistid": 1},
+								{"name": "Jhené Aiko", "size" : 1, "artistid": 1},
+								{"name": "John Newman", "size" : 1, "artistid": 1},
+								{"name": "The Toy Dolls", "size" : 1, "artistid": 1},
+								{"name": "AlunaGeorge", "size" : 1, "artistid": 1},
+								{"name": "Superchunk", "size" : 1, "artistid": 1},
+								{"name": "Frank Turner", "size" : 1, "artistid": 1},
+								{"name": "Courtney Barnett", "size" : 1, "artistid": 1},
+								{"name": "Bombino", "size" : 1, "artistid": 1},
+								{"name": "Factory Floor", "size" : 1, "artistid": 1},
+								{"name": "Bo Ningen", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Bicep", "size" : 1, "artistid": 1},
+								{"name": "Laurent Garnier", "size" : 1, "artistid": 1},
+								{"name": "Maceo Plex", "size" : 1, "artistid": 1},
+								{"name": "Art Department", "size" : 1, "artistid": 1},
+								{"name": "Lee Burridge", "size" : 1, "artistid": 1},
+								{"name": "Scuba", "size" : 1, "artistid": 1},
+								{"name": "The Martinez Brothers", "size" : 1, "artistid": 1},
+								{"name": "Cooper Saver", "size" : 1, "artistid": 1},
+								{"name": "Equip", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2015",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"187 Acts",
+			"size":187,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 58,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "AC/DC", "size" : 1, "artistid": 1},
+								{"name": "Tame Impala", "size" : 1, "artistid": 1},
+								{"name": "Interpol", "size" : 1, "artistid": 1},
+								{"name": "The War on Drugs", "size" : 1, "artistid": 1},
+								{"name": "Azealia Banks", "size" : 1, "artistid": 1},
+								{"name": "Charles Bradley and his Extraordinaries", "size" : 1, "artistid": 1},
+								{"name": "Action Bronson", "size" : 1, "artistid": 1},
+								{"name": "Vic Mensa", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 11,
+							"children": [
+								{"name": "Nero", "size" : 1, "artistid": 1},
+								{"name": "Steely Dan", "size" : 1, "artistid": 1},
+								{"name": "Alabama Shakes", "size" : 1, "artistid": 1},
+								{"name": "Raekwon", "size" : 1, "artistid": 1},
+								{"name": "Ghostface Killah", "size" : 1, "artistid": 1},
+								{"name": "Angus & Julia Stone", "size" : 1, "artistid": 1},
+								{"name": "Lil B", "size" : 1, "artistid": 1},
+								{"name": "Allah-Las", "size" : 1, "artistid": 1},
+								{"name": "Brant Bjork and the Low Desert Punk Band", "size" : 1, "artistid": 1},
+								{"name": "The Ghost of a Saber Tooth Tiger", "size" : 1, "artistid": 1},
+								{"name": "Alchemy", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 10,
+							"children": [
+								{"name": "Flying Lotus", "size" : 1, "artistid": 1},
+								{"name": "Caribou", "size" : 1, "artistid": 1},
+								{"name": "Lykke Li", "size" : 1, "artistid": 1},
+								{"name": "Ryan Hemsworth", "size" : 1, "artistid": 1},
+								{"name": "Kiesza", "size" : 1, "artistid": 1},
+								{"name": "Sylvan Esso", "size" : 1, "artistid": 1},
+								{"name": "George Ezra", "size" : 1, "artistid": 1},
+								{"name": "The Reverend Horton Heat", "size" : 1, "artistid": 1},
+								{"name": "Haerts", "size" : 1, "artistid": 1},
+								{"name": "Los Rakas", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "Alesso", "size" : 1, "artistid": 1},
+								{"name": "Porter Robinson", "size" : 1, "artistid": 1},
+								{"name": "DJ Snake", "size" : 1, "artistid": 1},
+								{"name": "R3hab", "size" : 1, "artistid": 1},
+								{"name": "Oliver Heldens", "size" : 1, "artistid": 1},
+								{"name": "Keys N Krates", "size" : 1, "artistid": 1},
+								{"name": "Alvin Risk", "size" : 1, "artistid": 1},
+								{"name": "Trippy Turtle", "size" : 1, "artistid": 1},
+								{"name": "Peking Duk", "size" : 1, "artistid": 1},
+								{"name": "DJP", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Squarepusher", "size" : 1, "artistid": 1},
+								{"name": "Todd Terje and the Olsens", "size" : 1, "artistid": 1},
+								{"name": "Gorgon City", "size" : 1, "artistid": 1},
+								{"name": "Hot Natured", "size" : 1, "artistid": 1},
+								{"name": "Ride", "size" : 1, "artistid": 1},
+								{"name": "Kimbra", "size" : 1, "artistid": 1},
+								{"name": "Ab-Soul", "size" : 1, "artistid": 1},
+								{"name": "Cloud Nothings", "size" : 1, "artistid": 1},
+								{"name": "Eagulls", "size" : 1, "artistid": 1},
+								{"name": "Ruen Brothers", "size" : 1, "artistid": 1},
+								{"name": "Moustache", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 8,
+							"children": [
+								{"name": "MK", "size" : 1, "artistid": 1},
+								{"name": "Chris Malinchak", "size" : 1, "artistid": 1},
+								{"name": "Pete Tong", "size" : 1, "artistid": 1},
+								{"name": "Jon Hopkins", "size" : 1, "artistid": 1},
+								{"name": "Erol Alkan", "size" : 1, "artistid": 1},
+								{"name": "Lee Foss", "size" : 1, "artistid": 1},
+								{"name": "Marquess Wyatt", "size" : 1, "artistid": 1},
+								{"name": "Freddy Be", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 65,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "The Weeknd", "size" : 1, "artistid": 1},
+								{"name": "Jack White", "size" : 1, "artistid": 1},
+								{"name": "alt-J", "size" : 1, "artistid": 1},
+								{"name": "Hozier", "size" : 1, "artistid": 1},
+								{"name": "Milky Chance", "size" : 1, "artistid": 1},
+								{"name": "Bad Religion", "size" : 1, "artistid": 1},
+								{"name": "Clean Bandit", "size" : 1, "artistid": 1},
+								{"name": "Nortec Collective Presents Bostich+Fussible", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 13,
+							"children": [
+								{"name": "Axwell and Ingrosso", "size" : 1, "artistid": 1},
+								{"name": "Flosstradamus", "size" : 1, "artistid": 1},
+								{"name": "Tyler", "size" : 1, "artistid": 1},
+								{"name": "The Creator", "size" : 1, "artistid": 1},
+								{"name": "Father John Misty", "size" : 1, "artistid": 1},
+								{"name": "Belle and Sebastian", "size" : 1, "artistid": 1},
+								{"name": "Chet Faker", "size" : 1, "artistid": 1},
+								{"name": "Andrew McMahon in the Wilderness", "size" : 1, "artistid": 1},
+								{"name": "Royal Blood", "size" : 1, "artistid": 1},
+								{"name": "Perfume Genius", "size" : 1, "artistid": 1},
+								{"name": "Jamestown Revival", "size" : 1, "artistid": 1},
+								{"name": "PHOX", "size" : 1, "artistid": 1},
+								{"name": "Mantastique", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Antemasque", "size" : 1, "artistid": 1},
+								{"name": "SBTRKT", "size" : 1, "artistid": 1},
+								{"name": "Tycho", "size" : 1, "artistid": 1},
+								{"name": "Kasabian", "size" : 1, "artistid": 1},
+								{"name": "Run the Jewels", "size" : 1, "artistid": 1},
+								{"name": "Jungle", "size" : 1, "artistid": 1},
+								{"name": "Toro y Moi", "size" : 1, "artistid": 1},
+								{"name": "Bad Suns", "size" : 1, "artistid": 1},
+								{"name": "St. Paul and The Broken Bones", "size" : 1, "artistid": 1},
+								{"name": "Ryn Weaver", "size" : 1, "artistid": 1},
+								{"name": "Tourist", "size" : 1, "artistid": 1},
+								{"name": "Radkey", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Ratatat", "size" : 1, "artistid": 1},
+								{"name": "Deorro", "size" : 1, "artistid": 1},
+								{"name": "Duke Dumont", "size" : 1, "artistid": 1},
+								{"name": "Cedric Gervais", "size" : 1, "artistid": 1},
+								{"name": "Dirty South", "size" : 1, "artistid": 1},
+								{"name": "Yellow Claw", "size" : 1, "artistid": 1},
+								{"name": "Gramatik", "size" : 1, "artistid": 1},
+								{"name": "Alison Wonderland", "size" : 1, "artistid": 1},
+								{"name": "Matthew Koma", "size" : 1, "artistid": 1},
+								{"name": "Bixel Boys", "size" : 1, "artistid": 1},
+								{"name": "Dem Ham Boyz", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "Swans", "size" : 1, "artistid": 1},
+								{"name": "Drive Like Jehu", "size" : 1, "artistid": 1},
+								{"name": "FKA twigs", "size" : 1, "artistid": 1},
+								{"name": "The Gaslamp Killer Experience", "size" : 1, "artistid": 1},
+								{"name": "Glass Animals", "size" : 1, "artistid": 1},
+								{"name": "Yelle", "size" : 1, "artistid": 1},
+								{"name": "Cashmere Cat", "size" : 1, "artistid": 1},
+								{"name": "Benjamin Booker", "size" : 1, "artistid": 1},
+								{"name": "Lights", "size" : 1, "artistid": 1},
+								{"name": "Parquet Courts", "size" : 1, "artistid": 1},
+								{"name": "Coasts", "size" : 1, "artistid": 1},
+								{"name": "Until the Ribbon Breaks", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Annie Mac", "size" : 1, "artistid": 1},
+								{"name": "Loco Dice", "size" : 1, "artistid": 1},
+								{"name": "DJ Harvey", "size" : 1, "artistid": 1},
+								{"name": "Danny Tenaglia", "size" : 1, "artistid": 1},
+								{"name": "Carl Craig", "size" : 1, "artistid": 1},
+								{"name": "Tales of Us", "size" : 1, "artistid": 1},
+								{"name": "Andrea Oliva", "size" : 1, "artistid": 1},
+								{"name": "Lauren Lane", "size" : 1, "artistid": 1},
+								{"name": "Mor Elian", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 64,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 9,
+							"children": [
+								{"name": "Drake", "size" : 1, "artistid": 1},
+								{"name": "Florence and the Machine", "size" : 1, "artistid": 1},
+								{"name": "Kaskade", "size" : 1, "artistid": 1},
+								{"name": "Marina and the Diamonds", "size" : 1, "artistid": 1},
+								{"name": "St. Lucia", "size" : 1, "artistid": 1},
+								{"name": "Circa Survive", "size" : 1, "artistid": 1},
+								{"name": "The Orwells", "size" : 1, "artistid": 1},
+								{"name": "Saint Motel", "size" : 1, "artistid": 1},
+								{"name": "Jimbo Jenkins", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Fitz and The Tantrums", "size" : 1, "artistid": 1},
+								{"name": "St. Vincent", "size" : 1, "artistid": 1},
+								{"name": "Ryan Adams", "size" : 1, "artistid": 1},
+								{"name": "Jenny Lewis", "size" : 1, "artistid": 1},
+								{"name": "Built to Spill", "size" : 1, "artistid": 1},
+								{"name": "Mac DeMarco", "size" : 1, "artistid": 1},
+								{"name": "Joyce Manor", "size" : 1, "artistid": 1},
+								{"name": "Chicano Batman", "size" : 1, "artistid": 1},
+								{"name": "Gabe Real", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Kygo", "size" : 1, "artistid": 1},
+								{"name": "Gesaffelstein", "size" : 1, "artistid": 1},
+								{"name": "Stromae", "size" : 1, "artistid": 1},
+								{"name": "Brand New", "size" : 1, "artistid": 1},
+								{"name": "Vance Joy", "size" : 1, "artistid": 1},
+								{"name": "RAC", "size" : 1, "artistid": 1},
+								{"name": "Panda Bear", "size" : 1, "artistid": 1},
+								{"name": "OFF!", "size" : 1, "artistid": 1},
+								{"name": "Touché Amoré", "size" : 1, "artistid": 1},
+								{"name": "Sloan", "size" : 1, "artistid": 1},
+								{"name": "Little Red Spiders", "size" : 1, "artistid": 1},
+								{"name": "Wavegroove", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 9,
+							"children": [
+								{"name": "David Guetta", "size" : 1, "artistid": 1},
+								{"name": "New World Punx", "size" : 1, "artistid": 1},
+								{"name": "Madeon", "size" : 1, "artistid": 1},
+								{"name": "Martin Solveig", "size" : 1, "artistid": 1},
+								{"name": "What So Not", "size" : 1, "artistid": 1},
+								{"name": "Claude VonStroke", "size" : 1, "artistid": 1},
+								{"name": "Alf Alpha", "size" : 1, "artistid": 1},
+								{"name": "superduperbrick", "size" : 1, "artistid": 1},
+								{"name": "Soslo", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 12,
+							"children": [
+								{"name": "Kaytranada", "size" : 1, "artistid": 1},
+								{"name": "ODESZA", "size" : 1, "artistid": 1},
+								{"name": "Jamie xx", "size" : 1, "artistid": 1},
+								{"name": "Philip Selway", "size" : 1, "artistid": 1},
+								{"name": "The Cribs", "size" : 1, "artistid": 1},
+								{"name": "Desaparecidos", "size" : 1, "artistid": 1},
+								{"name": "Sturgill Simpson", "size" : 1, "artistid": 1},
+								{"name": "MØ", "size" : 1, "artistid": 1},
+								{"name": "Angel Olsen", "size" : 1, "artistid": 1},
+								{"name": "Night Terrors of 1927", "size" : 1, "artistid": 1},
+								{"name": "Astronautica", "size" : 1, "artistid": 1},
+								{"name": "Eevaan Tre & the Show", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 13,
+							"children": [
+								{"name": "Jackmaster", "size" : 1, "artistid": 1},
+								{"name": "Eats Everything", "size" : 1, "artistid": 1},
+								{"name": "Skream", "size" : 1, "artistid": 1},
+								{"name": "Seth Troxler", "size" : 1, "artistid": 1},
+								{"name": "Guy Gerber", "size" : 1, "artistid": 1},
+								{"name": "Ben Klock", "size" : 1, "artistid": 1},
+								{"name": "Jason Bentley", "size" : 1, "artistid": 1},
+								{"name": "John Talabot", "size" : 1, "artistid": 1},
+								{"name": "Tiger and Woods", "size" : 1, "artistid": 1},
+								{"name": "tINI", "size" : 1, "artistid": 1},
+								{"name": "Doc Martin", "size" : 1, "artistid": 1},
+								{"name": "Sub Level", "size" : 1, "artistid": 1},
+								{"name": "Trent Cantrelle", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	},{
+		"name":"2016",
+		"size":1,
+		"show":"yes",
+		"click": "hide",
+		"children":[
+		{
+			"name":"182 Acts",
+			"size":182,
+			"show":"yes",
+			"click": "show",
+			"children": [
+				{
+					"name":"Friday",
+					"size": 61,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "LCD Soundsystem", "size" : 1, "artistid": 1},
+								{"name": "Ellie Goulding", "size" : 1, "artistid": 1},
+								{"name": "M83", "size" : 1, "artistid": 1},
+								{"name": "Of Monsters and Men", "size" : 1, "artistid": 1},
+								{"name": "Foals", "size" : 1, "artistid": 1},
+								{"name": "Years & Years", "size" : 1, "artistid": 1},
+								{"name": "Joey Bada$$", "size" : 1, "artistid": 1},
+								{"name": "Gabe Real", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Jack Ü", "size" : 1, "artistid": 1},
+								{"name": "Sufjan Stevens", "size" : 1, "artistid": 1},
+								{"name": "A$AP Rocky", "size" : 1, "artistid": 1},
+								{"name": "The Kills", "size" : 1, "artistid": 1},
+								{"name": "Lord Huron", "size" : 1, "artistid": 1},
+								{"name": "Robert DeLong", "size" : 1, "artistid": 1},
+								{"name": "The Front Bottoms", "size" : 1, "artistid": 1},
+								{"name": "Carla Morrison", "size" : 1, "artistid": 1},
+								{"name": "Versis", "size" : 1, "artistid": 1},
+								{"name": "Softest Hard", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Purity Ring", "size" : 1, "artistid": 1},
+								{"name": "Snakehips", "size" : 1, "artistid": 1},
+								{"name": "Savages", "size" : 1, "artistid": 1},
+								{"name": "The Last Shadow Puppets", "size" : 1, "artistid": 1},
+								{"name": "BØRNS", "size" : 1, "artistid": 1},
+								{"name": "Gallant", "size" : 1, "artistid": 1},
+								{"name": "Ibeyi", "size" : 1, "artistid": 1},
+								{"name": "Miami Horror", "size" : 1, "artistid": 1},
+								{"name": "HEALTH", "size" : 1, "artistid": 1},
+								{"name": "Låpsley", "size" : 1, "artistid": 1},
+								{"name": "HÆLOS", "size" : 1, "artistid": 1},
+								{"name": "Sheer Mag", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 11,
+							"children": [
+								{"name": "Lucent Dossier Experience", "size" : 1, "artistid": 1},
+								{"name": "Rae Sremmurd", "size" : 1, "artistid": 1},
+								{"name": "G-Eazy", "size" : 1, "artistid": 1},
+								{"name": "Underworld", "size" : 1, "artistid": 1},
+								{"name": "2manyDJs", "size" : 1, "artistid": 1},
+								{"name": "DJ Mustard", "size" : 1, "artistid": 1},
+								{"name": "Sam Feldt", "size" : 1, "artistid": 1},
+								{"name": "Louis the Child", "size" : 1, "artistid": 1},
+								{"name": "Nina Las Vegas", "size" : 1, "artistid": 1},
+								{"name": "Synergy", "size" : 1, "artistid": 1},
+								{"name": "Cosmic Crates", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Volbeat", "size" : 1, "artistid": 1},
+								{"name": "Lemaitre", "size" : 1, "artistid": 1},
+								{"name": "Parov Stelar", "size" : 1, "artistid": 1},
+								{"name": "Lido", "size" : 1, "artistid": 1},
+								{"name": "St Germain", "size" : 1, "artistid": 1},
+								{"name": "Christine and the Queens", "size" : 1, "artistid": 1},
+								{"name": "Bob Moses", "size" : 1, "artistid": 1},
+								{"name": "Goldroom", "size" : 1, "artistid": 1},
+								{"name": "Mavis Staples", "size" : 1, "artistid": 1},
+								{"name": "Frances", "size" : 1, "artistid": 1},
+								{"name": "Mbongwana Star", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Marco Carola", "size" : 1, "artistid": 1},
+								{"name": "Nicole Moudaber & Skin", "size" : 1, "artistid": 1},
+								{"name": "Sasha", "size" : 1, "artistid": 1},
+								{"name": "Black Coffee", "size" : 1, "artistid": 1},
+								{"name": "Nic Fanciulli", "size" : 1, "artistid": 1},
+								{"name": "George FitzGerald", "size" : 1, "artistid": 1},
+								{"name": "SG Lewis", "size" : 1, "artistid": 1},
+								{"name": "DJ EZ", "size" : 1, "artistid": 1},
+								{"name": "Masha", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				},{
+					"name":"Saturday",
+					"size": 62,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Guns N' Roses", "size" : 1, "artistid": 1},
+								{"name": "Ice Cube", "size" : 1, "artistid": 1},
+								{"name": "Disclosure", "size" : 1, "artistid": 1},
+								{"name": "CHVRCHES", "size" : 1, "artistid": 1},
+								{"name": "Run the Jewels", "size" : 1, "artistid": 1},
+								{"name": "Gary Clark", "size" : 1, "artistid": 1},
+								{"name": "Jr.", "size" : 1, "artistid": 1},
+								{"name": "Moon Taxi", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 10,
+							"children": [
+								{"name": "Zedd", "size" : 1, "artistid": 1},
+								{"name": "Halsey", "size" : 1, "artistid": 1},
+								{"name": "Courtney Barnett", "size" : 1, "artistid": 1},
+								{"name": "Rhye", "size" : 1, "artistid": 1},
+								{"name": "Zella Day", "size" : 1, "artistid": 1},
+								{"name": "Chronixx", "size" : 1, "artistid": 1},
+								{"name": "Protoje", "size" : 1, "artistid": 1},
+								{"name": "Ex Hex", "size" : 1, "artistid": 1},
+								{"name": "brightener", "size" : 1, "artistid": 1},
+								{"name": "The Flusters", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 11,
+							"children": [
+								{"name": "Dubfire", "size" : 1, "artistid": 1},
+								{"name": "Grimes", "size" : 1, "artistid": 1},
+								{"name": "Silversun Pickups", "size" : 1, "artistid": 1},
+								{"name": "Unknown Mortal Orchestra", "size" : 1, "artistid": 1},
+								{"name": "The Arcs", "size" : 1, "artistid": 1},
+								{"name": "Deerhunter", "size" : 1, "artistid": 1},
+								{"name": "James Bay", "size" : 1, "artistid": 1},
+								{"name": "Strangers You Know", "size" : 1, "artistid": 1},
+								{"name": "Cloves", "size" : 1, "artistid": 1},
+								{"name": "Algiers", "size" : 1, "artistid": 1},
+								{"name": "Phases", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 13,
+							"children": [
+								{"name": "RL Grime", "size" : 1, "artistid": 1},
+								{"name": "ZHU", "size" : 1, "artistid": 1},
+								{"name": "Snails", "size" : 1, "artistid": 1},
+								{"name": "Vince Staples", "size" : 1, "artistid": 1},
+								{"name": "AlunaGeorge", "size" : 1, "artistid": 1},
+								{"name": "Matoma", "size" : 1, "artistid": 1},
+								{"name": "Lost Frequencies", "size" : 1, "artistid": 1},
+								{"name": "Mr. Carmack", "size" : 1, "artistid": 1},
+								{"name": "Vanic", "size" : 1, "artistid": 1},
+								{"name": "Jimbo Jenkins", "size" : 1, "artistid": 1},
+								{"name": "DJ Morsy", "size" : 1, "artistid": 1},
+								{"name": "Dirty Mop", "size" : 1, "artistid": 1},
+								{"name": "Big Game", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Shamir", "size" : 1, "artistid": 1},
+								{"name": "BADBADNOTGOOD", "size" : 1, "artistid": 1},
+								{"name": "RÜFÜS DU SOL", "size" : 1, "artistid": 1},
+								{"name": "The Damned", "size" : 1, "artistid": 1},
+								{"name": "SZA", "size" : 1, "artistid": 1},
+								{"name": "Bat for Lashes", "size" : 1, "artistid": 1},
+								{"name": "Lush", "size" : 1, "artistid": 1},
+								{"name": "Alvvays", "size" : 1, "artistid": 1},
+								{"name": "DMA's", "size" : 1, "artistid": 1},
+								{"name": "GoGo Penguin", "size" : 1, "artistid": 1},
+								{"name": "The Dead Ships", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Justin Martin", "size" : 1, "artistid": 1},
+								{"name": "Nina Kraviz", "size" : 1, "artistid": 1},
+								{"name": "Mano Le Tough", "size" : 1, "artistid": 1},
+								{"name": "DJ Koze", "size" : 1, "artistid": 1},
+								{"name": "Matthew Dear", "size" : 1, "artistid": 1},
+								{"name": "SOPHIE", "size" : 1, "artistid": 1},
+								{"name": "The Black Madonna", "size" : 1, "artistid": 1},
+								{"name": "Amine Edge & DANCE", "size" : 1, "artistid": 1},
+								{"name": "Lee K", "size" : 1, "artistid": 1}	
+							]
+						}
+					]
+				},{
+					"name":"Sunday",
+					"size": 59,
+					"children":[
+						{
+							"name": "Coachella Stage",
+							"size": 8,
+							"children": [
+								{"name": "Calvin Harris", "size" : 1, "artistid": 1},
+								{"name": "Sia", "size" : 1, "artistid": 1},
+								{"name": "Major Lazer", "size" : 1, "artistid": 1},
+								{"name": "The 1975", "size" : 1, "artistid": 1},
+								{"name": "Matt and Kim", "size" : 1, "artistid": 1},
+								{"name": "Rancid", "size" : 1, "artistid": 1},
+								{"name": "Nathaniel Rateliff & the Night Sweats", "size" : 1, "artistid": 1},
+								{"name": "RecordSafari", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Outdoor Theatre",
+							"size": 9,
+							"children": [
+								{"name": "Flume", "size" : 1, "artistid": 1},
+								{"name": "Beach House", "size" : 1, "artistid": 1},
+								{"name": "Edward Sharpe and the Magnetic Zeros", "size" : 1, "artistid": 1},
+								{"name": "Cold War Kids", "size" : 1, "artistid": 1},
+								{"name": "Wolf Alice", "size" : 1, "artistid": 1},
+								{"name": "Kamasi Washington", "size" : 1, "artistid": 1},
+								{"name": "Young Fathers", "size" : 1, "artistid": 1},
+								{"name": "Girlpool", "size" : 1, "artistid": 1},
+								{"name": "MINT FIELD", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Mojave Tent",
+							"size": 12,
+							"children": [
+								{"name": "Nosaj Thing", "size" : 1, "artistid": 1},
+								{"name": "Miike Snow", "size" : 1, "artistid": 1},
+								{"name": "Anderson .Paak & the Free Nationals", "size" : 1, "artistid": 1},
+								{"name": "Melody's Echo Chamber", "size" : 1, "artistid": 1},
+								{"name": "Crystal Fighters", "size" : 1, "artistid": 1},
+								{"name": "Hudson Mohawke", "size" : 1, "artistid": 1},
+								{"name": "Joywave", "size" : 1, "artistid": 1},
+								{"name": "The Heavy", "size" : 1, "artistid": 1},
+								{"name": "PRAYERS", "size" : 1, "artistid": 1},
+								{"name": "De Lux", "size" : 1, "artistid": 1},
+								{"name": "Swarvy", "size" : 1, "artistid": 1},
+								{"name": "EROK", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Sahara Tent",
+							"size": 10,
+							"children": [
+								{"name": "KSHMR", "size" : 1, "artistid": 1},
+								{"name": "The Chainsmokers", "size" : 1, "artistid": 1},
+								{"name": "Tchami", "size" : 1, "artistid": 1},
+								{"name": "Baauer", "size" : 1, "artistid": 1},
+								{"name": "TOKiMONSTA", "size" : 1, "artistid": 1},
+								{"name": "Thomas Jack", "size" : 1, "artistid": 1},
+								{"name": "Claptone IMMORTAL LIVE", "size" : 1, "artistid": 1},
+								{"name": "Epik High", "size" : 1, "artistid": 1},
+								{"name": "Mister Blaqk", "size" : 1, "artistid": 1},
+								{"name": "David J Prince", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Gobi Tent",
+							"size": 11,
+							"children": [
+								{"name": "Deafheaven", "size" : 1, "artistid": 1},
+								{"name": "Death Grips", "size" : 1, "artistid": 1},
+								{"name": "Alessia Cara", "size" : 1, "artistid": 1},
+								{"name": "Chris Stapleton", "size" : 1, "artistid": 1},
+								{"name": "Autolux", "size" : 1, "artistid": 1},
+								{"name": "Pete Yorn", "size" : 1, "artistid": 1},
+								{"name": "Meg Myers", "size" : 1, "artistid": 1},
+								{"name": "The Vandals", "size" : 1, "artistid": 1},
+								{"name": "Tei Shi", "size" : 1, "artistid": 1},
+								{"name": "Steady Holiday", "size" : 1, "artistid": 1},
+								{"name": "AFTA-1", "size" : 1, "artistid": 1}
+							]
+						},
+						{
+							"name": "Yuma Tent",
+							"size": 9,
+							"children": [
+								{"name": "Maceo Plex", "size" : 1, "artistid": 1},
+								{"name": "Adam Beyer & Ida Engberg", "size" : 1, "artistid": 1},
+								{"name": "John Digweed", "size" : 1, "artistid": 1},
+								{"name": "Tensnake", "size" : 1, "artistid": 1},
+								{"name": "Soul Clap", "size" : 1, "artistid": 1},
+								{"name": "Cassy", "size" : 1, "artistid": 1},
+								{"name": "Fur Coat", "size" : 1, "artistid": 1},
+								{"name": "AC Slater", "size" : 1, "artistid": 1},
+								{"name": "Lisbona Sisters", "size" : 1, "artistid": 1}
+							]
+						}
+					]
+				}
+			]
+		}]
+	}]
+}

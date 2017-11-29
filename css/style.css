@@ -1,0 +1,219 @@
+@font-face {
+    font-family: 'DIN-light';
+    src: url('../fonts/DIN/DIN-Light.eot');
+    src: url('../fonts/DIN/DIN-Light.woff2') format('woff2'), url('../fonts/DIN/DIN-Light.woff') format('woff'), url('../fonts/DIN/DIN-Light.ttf') format('truetype'), url('../fonts/DIN/DIN-Light.svg#DIN-Regular') format('svg'), url('../fonts/DIN/DIN-Light.eot?#iefix') format('embedded-opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DIN';
+    src: url('../fonts/DIN/DIN-Regular.eot');
+    src: url('../fonts/DIN/DIN-Regular.woff2') format('woff2'), url('../fonts/DIN/DIN-Regular.woff') format('woff'), url('../fonts/DIN/DIN-Regular.ttf') format('truetype'), url('../fonts/DIN/DIN-Regular.svg#DIN-Regular') format('svg'), url('../fonts/DIN/DIN-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DIN-Bold';
+    src: url('../fonts/DIN/DIN-Bold.eot');
+    src: url('../fonts/DIN/DIN-Bold.woff2') format('woff2'), url('../fonts/DIN/DIN-Bold.woff') format('woff'), url('../fonts/DIN/DIN-Bold.ttf') format('truetype'), url('../fonts/DIN/DIN-Bold.svg#DIN-Bold') format('svg'), url('../fonts/DIN/DIN-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+.pre{display:block; background:#fff; width: 100%; height: 100%; position: fixed; z-index: 99; text-align: center;}
+
+*{margin:0; padding:0;}
+
+body{ font-family: 'DIN-light', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; background:#fff; /*background:url('//assets.crowdsurge.com/demos/yi/coachella/img/bg.jpg?v3') no-repeat fixed top center; background-size: contain;*/}
+
+.logo{max-width:600px;}
+
+#graph{margin:0 auto; text-align:center; padding:2%; background:url('../images/bg2.jpg?v5') no-repeat fixed center; background-size:cover; border-width: 5px rgba(255,255,255,.2) solid; padding:2%; position: relative;}
+
+
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+
+path{transition:.3s ease-in all; cursor: pointer;}
+path:hover{fill:#000!important;transition:.3s ease-in all;}
+
+
+svg text{display:none; pointer-events: none!important;transition:.3s ease-in all; fill:#000;}
+svg text.yes{display:block;}
+
+svg text.undefined{font-size:13px;}
+
+svg text.Coachella{fill:#fff}
+svg text.Coachella.Stage{fill:#000;}
+
+g:hover > text,
+g:hover > text.Coachella.Stage{fill:#fff;transition:.3s ease-in all;}
+
+.burst > g > g > text.Coachella{transform:rotate(0)!important;transform: translate(-40px,0px)!important}
+.burst > g > g > text.Coachella.Stage{transform:inherit!important;transform: inherit}
+
+/* Style northward tooltips differently */
+div.tooltip { 
+    position: absolute;     
+    text-align: center;     
+    width: 150px;          
+    height: auto;         
+    padding: 1%;       
+    color: #fff;
+    font: 12px sans-serif;    
+    background: rgba(0,0,0,.8); 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
+
+h1{font-weight: normal; font-size: 1.25em; margin-bottom: 10px;}
+
+/*#artistInfo{
+ position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: #000;
+    border-radius: 10px;
+    padding: 4% 6%;
+    max-width: 200px;
+    display: none;}
+
+.title {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.25em;
+}
+
+img.item-image {
+    border: 5px #fff solid;
+    margin: 10px 0;
+    border-radius: 90px;
+
+p.backBtn{cursor: pointer; color: #fff; display: block; position: relative; top: 10px; font-size: 8px; text-transform: uppercase;}
+p.backBtn:hover{text-decoration: underline;}
+
+}*/
+
+#artistInfo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000;
+    border-radius: 10px;
+    padding: 4%;
+    max-width: 100%;
+    display: none;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    box-sizing: border-box;
+}
+
+#search-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    z-index: 0;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    overflow: hidden;
+}
+
+#search-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    position: absolute;
+    z-index: 3;
+    color: #fff;
+    width: 90%;
+    text-align: center;
+    display: none;
+}
+
+.imgHolder {
+    position: absolute;
+    z-index: 3;
+}
+
+img.item-image {
+    border: 5px #fff solid;
+    border-radius: 90px;
+}
+
+.btnHolder {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom:30px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+p.backBtn{cursor: pointer; color: #fff; right: 50px; position: absolute; top: 50px; font-size: 2em; text-transform: uppercase; z-index: 3;text-shadow:0 0 10px #000;}
+p.backBtn:hover{text-decoration: none;}
+
+.action_button span{
+   background-image: url('../images/SK_badge-wh.png');
+       background-position: 5px center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height:20px;
+    background-size: 20px;
+    /* position: absolute; */
+    /* left: 5px; */
+    /* top: 10px; */
+    float:none;
+    vertical-align: middle;
+}
+
+.action_button span.a{width:20%; margin-right: 5px;}
+.action_button span.b{width:75%; background:none; height: auto;}
+
+.action_button span.a {
+    width: 30px;
+    margin-right: 0;
+    float: left;
+    margin-top: -4px;
+    position: absolute;
+}
+
+.action_button span.b {
+    width: 100%;
+    background: none;
+    height: auto;
+}
+
+.action_button{
+ 
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    display: block;
+    padding: 15px 15px 10px 15px;
+    background-size: 20px;
+    border-radius: 4px;
+    background-color: #f70046;
+    position: relative;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.action_button:hover{
+  background-color:#dd0643; 
+}

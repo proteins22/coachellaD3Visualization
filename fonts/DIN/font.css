@@ -1,0 +1,56 @@
+@font-face {
+	font-family: 'DIN';
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.eot');
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.woff2') format('woff2'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.woff') format('woff'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.ttf') format('truetype'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.svg#DIN-Light') format('svg'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Light.eot?#iefix') format('embedded-opentype');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DIN';
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.eot');
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.woff2') format('woff2'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.woff') format('woff'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.ttf') format('truetype'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.svg#DIN-Regular') format('svg'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Regular.eot?#iefix') format('embedded-opentype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DIN';
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.eot');
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.woff2') format('woff2'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.woff') format('woff'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.ttf') format('truetype'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.svg#DIN-Medium') format('svg'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Medium.eot?#iefix') format('embedded-opentype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DIN';
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.eot');
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.woff2') format('woff2'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.woff') format('woff'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.ttf') format('truetype'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.svg#DIN-Bold') format('svg'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Bold.eot?#iefix') format('embedded-opentype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: '//assets.crowdsurge.com/fonts/DIN/DIN-Black';
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.eot');
+	src: url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.woff2') format('woff2'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.woff') format('woff'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.ttf') format('truetype'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.svg#DIN-Black') format('svg'),
+		 url('//assets.crowdsurge.com/fonts/DIN/DIN-Black.eot?#iefix') format('embedded-opentype');
+	font-weight: 900;
+	font-style: normal;
+}
+
